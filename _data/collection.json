@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Getting Started" ] },
+    "summary": { "en": [ "Workflow Documentation and Demonstration Videos" ] },
+    "items": [
+    ]
+}
