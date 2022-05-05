@@ -8,13 +8,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 # [Creating an AudiAnnotate Project](https://app.tango.us/app/workflow/8cfc8453-0505-4172-809d-c1f11c187e29?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
-__Description:__ 
 Note: You will need a GitHub account to use AudiAnnotate. If you don't have one already, navigate to [GitHub](https://github.com/join) and create one by providing a username, email address, and password.
-
-
-__Date:__ May 5, 2022
-
-__Author:__ Kayleigh Voss
 
 __Source:__ [Tango](https://app.tango.us/app/workflow/8cfc8453-0505-4172-809d-c1f11c187e29?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
