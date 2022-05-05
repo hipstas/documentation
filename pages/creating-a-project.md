@@ -10,8 +10,6 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 Note: You will need a GitHub account to use AudiAnnotate. If you don't have one already, navigate to [GitHub](https://github.com/join) and create one by providing a username, email address, and password.
 
-__Source:__ [Tango](https://app.tango.us/app/workflow/8cfc8453-0505-4172-809d-c1f11c187e29?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
 ***
 
 ### 1. [Navigate to the AudiAnnotate Application (AA)](http://audiannotate.brumfieldlabs.com)
@@ -19,16 +17,19 @@ __Source:__ [Tango](https://app.tango.us/app/workflow/8cfc8453-0505-4172-809d-c1
 
 ### 2. Log in to your account through GitHub
 Make sure to allow the app to authorize AA. This means that AA will be allowed to manage and write files on your behalf.
+
 ![Step 2 screenshot](https://images.tango.us/public/screenshot_e449590f-beea-42f3-8642-7f654788b381?crop=focalpoint&fit=crop&fp-x=0.7186&fp-y=0.0718&fp-z=2.7688&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406)
 
 
 ### 3. Select "New Project"
 This will open a page where you will add the metadata to allow AA to generate your project. AA creates a repository or “repo” in GitHub, which is your project’s storage space for any files related to your project.
+
 ![Step 3 screenshot](https://images.tango.us/public/screenshot_1c882e5c-bd12-4960-9b99-d75c79b17951?crop=focalpoint&fit=crop&fp-x=0.1969&fp-y=0.8585&fp-z=2.5806&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406)
 
 
 ### 4. Add a "Title"
 This is the project name, and the name of the GitHub repository that will be generated in this process. This title will also appear as the project name on the AA site under “My Projects.”
+
 ![Step 4 screenshot](https://images.tango.us/public/screenshot_6d558217-a424-4853-bcda-fe9744eb6048?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.2162&fp-z=1.9277&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406)
 
 
@@ -38,11 +39,13 @@ This is the project name, and the name of the GitHub repository that will be gen
 
 ### 6. Add a project slug
 This becomes the GitHub repository URL. Note, spaces are not recognized. Please use hyphens instead of spaces.
+
 ![Step 6 screenshot](https://images.tango.us/public/screenshot_d16ceb5c-4f98-45c7-acdb-0c2dea1d76ae?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.5263&fp-z=1.9277&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406)
 
 
 ### 7. Select “Create Project”
 This contacts GitHub and generates the repository. Now you have created an AudiAnnotate project, with all information stored in a GitHub repository. The next step will be to build the IIIF Manifest, which allows you to associate audiovisual material and annotations with your project.
+
 ![Step 7 screenshot](https://images.tango.us/public/screenshot_bc2d5533-9446-4cb2-b1ea-cb6296e6b4e1?crop=focalpoint&fit=crop&fp-x=0.1938&fp-y=0.6885&fp-z=2.6230&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406)
 
 
