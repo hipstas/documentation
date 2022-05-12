@@ -22,7 +22,7 @@ using HTML or markdown.  Do not modify this file above this line -->
     </ol>
 
     <h3>Using the Export for Publication Elsewhere</h3>
-<p>You can serve a Jekyll site on a variety of web hosts or your own web server. This list is a good starting point, or contact the IT staff at your institution for other options.</p>
+<p>You can serve a Jekyll site on a variety of web hosts or your own web server. <a href="https://jekyllrb.com/docs/deployment/third-party/">This list</a> is a good starting point, or contact the IT staff at your institution for other options.</p>
     
   </body>
 </html>
