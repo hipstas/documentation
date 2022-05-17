@@ -8,6 +8,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 <html>
   <body>
+    <h1>Creating Annotations</h1>
     
     <p> AudiAnnotate exists as a tool to compile and present annotations. Because of that, you do not create your annotations in AudiAnnotate, but bring your existing annotations to the application. Editing software like Audacity and Adobe Premiere can facilitate the annotation-creation process, but because annotations just need to be uploaded as structured data on a simple tab-separated file, you do not need to use other software if that is not your preference. The instructions below will walk you through annotation creation using <a href="#spreadsheet">a simple spreadsheet</a>, <a href="#audacity">Audacity</a>, and <a href="#adobe">Adobe Premiere</a>.</p>
     
