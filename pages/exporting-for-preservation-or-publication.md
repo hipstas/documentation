@@ -9,11 +9,12 @@ using HTML or markdown.  Do not modify this file above this line -->
 <html>
   <body>
 
+   <h1>Exporting for Preservation or Publication</h1>
    <p>Because AudiAnnotate project sites are built using Jekyll, a static site generator, you can export them from GitHub and preserve or publish elsewhere.</p>
 
    <p>To export from GitHub, go to the repository page and look for the green “Code” button. Select “Download ZIP”.</p>
 <img width="431" alt="Screen Shot 2022-05-12 at 12 58 39 PM" src="https://user-images.githubusercontent.com/97705205/168139459-671555fd-4e69-4e0c-97ae-bdddb160836b.png">
-
+    <br></br>
     <h3>Using the Export for Preservation</h3>
     <ol>
       <li>Unzip the file from the previous step. In the top level directory run “jekyll build”. This generates the static web pages as html files. Jekyll build does not create the correct filenames for IIIF manifests, so each directory within the generated site will have a manifest.json.html file instead of the correct manifest.json file.</li>
