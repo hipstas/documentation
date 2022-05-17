@@ -9,6 +9,8 @@ using HTML or markdown.  Do not modify this file above this line -->
 <html>
   <body>
 
+    <h1>Glossary of Terms</h1>
+    
   <b>Project</b> (<a href="https://tanyaclement.github.io/znh_jacksonville_1939/">Example</a>)
    <ul>
      <li><em>Conceptually</em>: a set of related AV materials with contextual information (e.g., front matter, explicatory prose)</li>
