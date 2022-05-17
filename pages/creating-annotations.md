@@ -20,10 +20,12 @@ using HTML or markdown.  Do not modify this file above this line -->
       <li> Before creating annotations in Adobe Premiere for your AudiAnnotate video, you will need to create a new project in Adobe Premiere and title the project. Select“New Project…” on the left-hand opening menu of Premiere when prompted.</li>
       <li> List a title for your project under “Name” and select “Ok.” </li>
       <li> Once you have done so you can import a .mp4 file by selecting “File” then selecting “Import…” and selecting your downloaded .mp4 to import into Adobe Premiere from your files. </li>
-      <li> Double click the still from the .mp4 video in the bottom left hand corner of the screen to put the clip into the timeline for annotating. Once the .mp4 is visible in the timeline, Adobe Premiere should look like this: 
+      <li> Double click the still from the .mp4 video in the bottom left hand corner of the screen to put the clip into the timeline for annotating. Once the .mp4 is visible in the timeline, Adobe Premiere should look like this:
+        
   ![premier1](https://user-images.githubusercontent.com/97705205/168913571-b24236ec-b017-4e52-9ea5-43e154b65fc8.jpeg)
       </li>
     </ol>
+    
     <h3><i>Annotating Videos in Adobe Premiere Using Markers</i></h3>
     <ol>
       <li> Annotations are added using the “Marker” feature. To add a marker, select the play icon on the timeline to begin the video. Pause the video then select “Marker,”then “Add Marker” where you want to begin annotating. This will drop a marker at that point. </li>
