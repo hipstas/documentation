@@ -23,12 +23,13 @@ using HTML or markdown.  Do not modify this file above this line -->
             <li>The third column should contain the contents of your annotation.</li>
             <li>The fourth column should contain the name of the layer. The layer column is where you can differentiate types of annotations. Write your layer names as you would like them to appear in AudiAnnotate (e.g., "E_Layer," "Notes").</li>
           </ul>
-
         <li> Enter your annotation(s) into the sheet as necessary.</li>
         <li> Once you have completed your annotations, download or save the particular tab of your spreadsheet you filled as either a .tsv, .csv, or .xlsx.</li>
+      </ol>
       
-<br>
-  <p>*An end time would not be necessary to make a point annotation, only a range annotation.</p>
+    <br>
+
+    <p>*An end time would not be necessary to make a point annotation, only a range annotation.</p>
     <p>A <i>point</i> annotation references one point in the audio. Its beginning and end times are the same. An example point annotation looks like:</p>
     <table>
     <tr>
@@ -45,37 +46,37 @@ using HTML or markdown.  Do not modify this file above this line -->
     </tr>
     </table>
 
-  <p>Alternatively, you can omit the end time entirely for a point annotation:</p>
-    <table>
-    <tr>
-      <th>time in hr:min:sec (displays in total sec)</th>
-      <th>time in hr:min:sec (displays in total sec)</th>
-      <th>annotation</th>
-      <th>layer</th>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td></td>
-      <td>The audience laughs.</td>
-      <td>Environment</td>
-    </tr>
-    </table>
+    <p>Alternatively, you can omit the end time entirely for a point annotation:</p>
+      <table>
+      <tr>
+        <th>time in hr:min:sec (displays in total sec)</th>
+        <th>time in hr:min:sec (displays in total sec)</th>
+        <th>annotation</th>
+        <th>layer</th>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td></td>
+        <td>The audience laughs.</td>
+        <td>Environment</td>
+      </tr>
+      </table>
 
     <p>A <i>range</i> annotation has different start and end time values, referencing a range of time in the audio. An example range annotation looks like:</p>
-    <table>
-    <tr>
-      <th>time in hr:min:sec (displays in total sec)</th>
-      <th>time in hr:min:sec (displays in total sec)</th>
-      <th>annotation</th>
-      <th>layer</th>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>5</td>
-      <td>The audience laughs.</td>
-      <td>Environment</td>
-    </tr>
-    </table>
+      <table>
+      <tr>
+        <th>time in hr:min:sec (displays in total sec)</th>
+        <th>time in hr:min:sec (displays in total sec)</th>
+        <th>annotation</th>
+        <th>layer</th>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>5</td>
+        <td>The audience laughs.</td>
+        <td>Environment</td>
+      </tr>
+      </table>
   
     <hr>
     <h2 id="audacity">Creating Annotations Using Audacity</h2>
@@ -93,7 +94,7 @@ using HTML or markdown.  Do not modify this file above this line -->
       <li>To insert a label at a point in time, you’ll pause the poem by selecting the “p” key, or pressing the pause symbol in the upper left, at the place you want to add a label.</li>
       <li>Select the time marker line to mark the place in time where you want to add the label. This typically will correspond to the place where you paused the audio.</li>
     </ol>
-![audacity1](https://user-images.githubusercontent.com/97705205/168941825-bff40044-be8e-455b-b6d4-d9e7329b1704.png)
+    ![audacity1](https://user-images.githubusercontent.com/97705205/168941825-bff40044-be8e-455b-b6d4-d9e7329b1704.png)
     <ol start="6">
       <li>Then, you’ll select command + b (the shortcut for Edit → Label → Add Label at Selection) to add a label on the label track. A field will pop up, and you can type your annotation. (Example: You may add “Stanza1” to mark the first stanza of a poem.) You could leave the point annotation as it is, or create an annotation as a range with a starting and an ending point.</li>
     </ol>
@@ -108,8 +109,8 @@ using HTML or markdown.  Do not modify this file above this line -->
     <h3><i>Annotating in Audacity - Method 2</i></h3>
     <ol>
       <li>When you open the app and add audio, navigate to Edit → Labels, then select “Type to create a label.”</li>
-<li>This creates a shortcut to add a label when any key is pressed. Now as you’re listening, when you type any key, a label will begin, allowing you to add labels without pausing. (Note: This will only add point-in-time labels, not ranges.) Using this method, to pause the audio, you need to use the pause button on the upper left of the interface (the “p” shortcut will not work).</li>
-      </ol>
+      <li>This creates a shortcut to add a label when any key is pressed. Now as you’re listening, when you type any key, a label will begin, allowing you to add labels without pausing. (Note: This will only add point-in-time labels, not ranges.) Using this method, to pause the audio, you need to use the pause button on the upper left of the interface (the “p” shortcut will not work).</li>
+    </ol>
     
     <h3><i>Exporting labels from Audacity</i></h3>
     <ol>
@@ -125,7 +126,7 @@ using HTML or markdown.  Do not modify this file above this line -->
       <li>Once you have done so you can import a .mp4 file by selecting “File” then selecting “Import…” and selecting your downloaded .mp4 to import into Adobe Premiere from your files. </li>
       <li>Double click the still from the .mp4 video in the bottom left hand corner of the screen to put the clip into the timeline for annotating. Once the .mp4 is visible in the timeline, Adobe Premiere should look like this:</li>
     </ol>
-  ![premiere1](https://user-images.githubusercontent.com/97705205/168941855-29852fe8-f2f9-4ce9-89b7-dae9b76bca98.jpeg)
+    ![premiere1](https://user-images.githubusercontent.com/97705205/168941855-29852fe8-f2f9-4ce9-89b7-dae9b76bca98.jpeg)
       
     
     <h3><i>Annotating Videos in Adobe Premiere Using Markers</i></h3>
@@ -142,12 +143,12 @@ using HTML or markdown.  Do not modify this file above this line -->
       <li>Once you have finished annotating your video using markers, follow the instructions below to export your annotation file. </li>
     </ol>
       
-      <h3><i>Exporting Your Annotations from Premiere</i></h3>
-      <ol>
-        <li>Select “File” then select “Export.” </li>
-        <li>Under the options for “Export” select “Markers.” </li>
-        <li>The default setting for a .csv file works for AudiAnnotate, so keep this export setting. </li>
-        <li>You can rename the file as you wish and select a location for it, but do not edit the formatting of the file before uploading it to AudiAnnotate. </li>
+    <h3><i>Exporting Your Annotations from Premiere</i></h3>
+    <ol>
+      <li>Select “File” then select “Export.” </li>
+      <li>Under the options for “Export” select “Markers.” </li>
+      <li>The default setting for a .csv file works for AudiAnnotate, so keep this export setting. </li> 
+      <li>You can rename the file as you wish and select a location for it, but do not edit the formatting of the file before uploading it to AudiAnnotate. </li>
     </ol>
     ![premiere3](https://user-images.githubusercontent.com/97705205/168941863-56477d03-ce0c-4d79-a3b9-14611ca1dadd.png)
 
