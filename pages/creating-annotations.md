@@ -93,16 +93,15 @@ using HTML or markdown.  Do not modify this file above this line -->
       <li>To insert a label at a point in time, you’ll pause the poem by selecting the “p” key, or pressing the pause symbol in the upper left, at the place you want to add a label.</li>
       <li>Select the time marker line to mark the place in time where you want to add the label. This typically will correspond to the place where you paused the audio.</li>
     </ol>
-        <img src="[img/my-image.png](https://user-images.githubusercontent.com/97705205/168922648-a3cec1a3-60d0-4691-9ae6-29e0deb20e06.png)" />
-      ![audacity1](https://user-images.githubusercontent.com/97705205/168922648-a3cec1a3-60d0-4691-9ae6-29e0deb20e06.png)
+        ![audacity1](https://user-images.githubusercontent.com/97705205/168941825-bff40044-be8e-455b-b6d4-d9e7329b1704.png)
     <ol start="6">
       <li>Then, you’ll select command + b (the shortcut for Edit → Label → Add Label at Selection) to add a label on the label track. A field will pop up, and you can type your annotation. (Example: You may add “Stanza1” to mark the first stanza of a poem.) You could leave the point annotation as it is, or create an annotation as a range with a starting and an ending point.</li>
     </ol>
-      ![audacity2](https://user-images.githubusercontent.com/97705205/168922701-c6dd976b-d142-4ad8-a2c1-adc83db924f0.png)
+      ![audacity2](https://user-images.githubusercontent.com/97705205/168941833-897c4f3e-1638-4dc9-a8dc-498486f9389a.png)
     <ol start="7">
       <li>To create a range, you’ll select and drag the right edge of the point marker in the label track to the end of the moment you would like to annotate. You’ll have to play the recording to know where to end your range. A completed range will look like this:</li>
     </ol>
-      ![audacity3](https://user-images.githubusercontent.com/97705205/168922724-7441cc49-acd8-4f40-8d80-0d9d822f1e0f.png)
+      ![audacity3](https://user-images.githubusercontent.com/97705205/168941845-962cfc69-9d30-42ab-9784-085a38eceb38.png)
     <ol start="8">
       <li>You can also add multiple label tracks to organize your annotations as you work. To do so, navigate to Tracks → Add New → Label Track.</li>
     </ol>
@@ -126,7 +125,7 @@ using HTML or markdown.  Do not modify this file above this line -->
       <li>Once you have done so you can import a .mp4 file by selecting “File” then selecting “Import…” and selecting your downloaded .mp4 to import into Adobe Premiere from your files. </li>
       <li>Double click the still from the .mp4 video in the bottom left hand corner of the screen to put the clip into the timeline for annotating. Once the .mp4 is visible in the timeline, Adobe Premiere should look like this:</li>
     </ol>
-  ![premier1](https://user-images.githubusercontent.com/97705205/168913571-b24236ec-b017-4e52-9ea5-43e154b65fc8.jpeg)
+  ![premiere1](https://user-images.githubusercontent.com/97705205/168941855-29852fe8-f2f9-4ce9-89b7-dae9b76bca98.jpeg)
       
     
     <h3><i>Annotating Videos in Adobe Premiere Using Markers</i></h3>
@@ -136,7 +135,7 @@ using HTML or markdown.  Do not modify this file above this line -->
       <li>The Marker “Name” should be the name of each layer you ultimately want in your AudiAnnotate project. The Marker “Comments” should be the text of annotation itself, such as a transcription. </li>
       <li>You can also add a duration by clicking and holding the blue timecode (above the marker) and dragging it to the right. You can drag the second marker to the end of the clip to annotate a range instead of a point in time. </li>
     </ol>
-      ![premiere2](https://user-images.githubusercontent.com/97705205/168913527-fe77d35e-630d-4ab0-a673-239a7e1c7bab.jpeg)
+     ![premiere2](https://user-images.githubusercontent.com/97705205/168941859-d95c2f7d-18c0-42db-a05d-d2aef7c45afa.jpeg)
     <ol start="5">
       <li>Continue adding markers with names for each layer and your annotations under “Comments.” It may help your organization to use distinct colors for markers corresponding to each layer, but it is not necessary. </li>
       <li>Once you have finished annotating your video using markers, follow the instructions below to export your annotation file. </li>
@@ -149,7 +148,7 @@ using HTML or markdown.  Do not modify this file above this line -->
         <li>The default setting for a .csv file works for AudiAnnotate, so keep this export setting. </li>
         <li>You can rename the file as you wish and select a location for it, but do not edit the formatting of the file before uploading it to AudiAnnotate. </li>
     </ol>
-    ![premier3](https://user-images.githubusercontent.com/97705205/168913472-38d98dff-6d41-4427-b6f6-94ad19bc3317.png)
+    ![premiere3](https://user-images.githubusercontent.com/97705205/168941863-56477d03-ce0c-4d79-a3b9-14611ca1dadd.png)
 
   </body>
   </html>
