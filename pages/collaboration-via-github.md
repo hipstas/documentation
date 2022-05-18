@@ -9,7 +9,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <html>
   <body>
     
-    <h3>Collaboration via GitHub</h3>
+    <h1>Collaboration via GitHub</h1>
     
     <p>We are in the process of updating this page. Please see our legacy documentation <a href="https://hipstas.github.io/AudiAnnotate/documentation.html#collaborative">here</a> in the meantime.</p>
     
