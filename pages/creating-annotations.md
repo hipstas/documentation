@@ -15,44 +15,65 @@ using HTML or markdown.  Do not modify this file above this line -->
     <h2 id="spreadsheet">Creating Annotations Using a Spreadsheet</h2>
     <p>You can use spreadsheet programs like Excel or Google sheets that export .tsv, .csv, or .xlsx files to create and organize annotations for AudiAnnotate. To do so:</p>
       <ol>
-        <li>Create a blank spreadsheet or use <a href="https://docs.google.com/spreadsheets/d/1hJV4zSag5I_YFv2N_v00x9qaMqLYU3c_4Fck_okcthk/copy#gid=0”>this template</a>. (Upon opening this link, you will be prompted to make a copy of this template for your own use.)</li>
+        <li>Create a blank spreadsheet or use <a href="https://docs.google.com/spreadsheets/d/1hJV4zSag5I_YFv2N_v00x9qaMqLYU3c_4Fck_okcthk/copy#gid=0">this template</a>. (Upon opening this link, you will be prompted to make a copy of this template for your own use.)</li>
         <li>AudiAnnotate accepts annotations formatted with four columns:
           <ul>
             <li>The first column should contain the beginning time (in total seconds) of the annotations.</li>
-            <li>The second column should contain the end time (in total seconds) of the annotation (if necessary*).</li>
+            <li>The second column should contain the end time (in total seconds) of the annotation if necessary*.</li>
             <li>The third column should contain the contents of your annotation.</li>
             <li>The fourth column should contain the name of the layer. The layer column is where you can differentiate types of annotations. Write your layer names as you would like them to appear in AudiAnnotate (e.g., "E_Layer," "Notes").</li>
           </ul>
 
         <li> Enter your annotation(s) into the sheet as necessary.</li>
         <li> Once you have completed your annotations, download or save the particular tab of your spreadsheet you filled as either a .tsv, .csv, or .xlsx.</li>
-    </ol>
-
+      </ol>
+<br>
   <p>*An end time would not be necessary to make a point annotation, only a range annotation.</p>
-  <p>A point annotation references one point in the audio. Its beginning and end times are the same. (You may also input just one time value.) An example point annotation looks like:</p>
+    <p>A <i>point</i> annotation references one point in the audio. Its beginning and end times are the same. An example point annotation looks like:</p>
     <table>
+    <tr>
+      <th>time in hr:min:sec (displays in total sec)</th>
+      <th>time in hr:min:sec (displays in total sec)</th>
+      <th>annotation</th>
+      <th>layer</th>
+    </tr>
     <tr>
       <td>3</td>
       <td>3</td>
       <td>The audience laughs.</td>
+      <td>Environment</td>
     </tr>
     </table>
 
   <p>Alternatively, you can omit the end time entirely for a point annotation:</p>
     <table>
     <tr>
+      <th>time in hr:min:sec (displays in total sec)</th>
+      <th>time in hr:min:sec (displays in total sec)</th>
+      <th>annotation</th>
+      <th>layer</th>
+    </tr>
+    <tr>
       <td>3</td>
       <td></td>
       <td>The audience laughs.</td>
+      <td>Environment</td>
     </tr>
     </table>
 
-  <p>A range annotation has different start and end time values, referencing a range of time in the audio. An example range annotation looks like:</p>
+    <p>A <i>range</i> annotation has different start and end time values, referencing a range of time in the audio. An example range annotation looks like:</p>
     <table>
+    <tr>
+      <th>time in hr:min:sec (displays in total sec)</th>
+      <th>time in hr:min:sec (displays in total sec)</th>
+      <th>annotation</th>
+      <th>layer</th>
+    </tr>
     <tr>
       <td>3</td>
       <td>5</td>
       <td>The audience laughs.</td>
+      <td>Environment</td>
     </tr>
     </table>
   
