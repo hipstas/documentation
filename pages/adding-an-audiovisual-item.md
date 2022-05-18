@@ -10,7 +10,7 @@ using HTML or markdown.  Do not modify this file above this line -->
   <body>
 
     <h1>Adding an Audiovisual Item</h1>
-<p><a href=#link>Via an existing direct link</a> | <a href=#IIIF>Via an existing IIIF manifest</a> | <a href=#create>Creating a direct link</a></p>
+<p><a href="#link">Via an existing direct link</a> | <a href="#IIIF">Via an existing IIIF manifest</a> | <a href="#create">Creating a direct link</a></p>
 
 <hr>
 <h2 id="link">Via an existing direct link</h2>
@@ -35,7 +35,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 
 <h3><li>Add “Audio File URL”</li></h3>
-<p>This is the direct link to the audiovisual file. (If you need to create a link, please visit <a href=#create>this section</a> of our documentation for more information.)</p>
+<p>This is the direct link to the audiovisual file. (If you need to create a link, please visit <a href="#create">this section</a> of our documentation for more information.)</p>
 <br>
 <img src="https://images.tango.us/public/screenshot_1579d776-46e7-4f57-bf25-cf88cf48ce33.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.3855&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 5 screenshot">
 <br>
