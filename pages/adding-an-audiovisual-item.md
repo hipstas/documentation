@@ -9,10 +9,10 @@ using HTML or markdown.  Do not modify this file above this line -->
 <html>
   <body>
 
-# Adding an Audiovisual Item
-<a href=#link>Via an existing direct link</a> | <a href=#IIIF>Via an existing IIIF manifest</a> | <a href=#create>Creating a direct link</a>
+    <h1>Adding an Audiovisual Item</h1>
+<p><a href=#link>Via an existing direct link</a> | <a href=#IIIF>Via an existing IIIF manifest</a> | <a href=#create>Creating a direct link</a></p>
 
-***
+<hr>
 <h2 id="link">Via an existing direct link</h2>
 <p>If you can access a direct link to the audiovisual item, you can add that URL directly to AudiAnnotate to import the material. Some institutions make direct URLs readiily available; other times they can be found in a webpage's HTML code or by downloading the material. A direct link should open the item in a web browser as a standalone object. It should begin as a web address and end with the file format, e.g. .mp3, .mp4, .wav, etc.</p>
 
