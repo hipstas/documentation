@@ -93,6 +93,7 @@ using HTML or markdown.  Do not modify this file above this line -->
       <li>To insert a label at a point in time, you’ll pause the poem by selecting the “p” key, or pressing the pause symbol in the upper left, at the place you want to add a label.</li>
       <li>Select the time marker line to mark the place in time where you want to add the label. This typically will correspond to the place where you paused the audio.</li>
     </ol>
+        <img src="[img/my-image.png](https://user-images.githubusercontent.com/97705205/168922648-a3cec1a3-60d0-4691-9ae6-29e0deb20e06.png)" />
       ![audacity1](https://user-images.githubusercontent.com/97705205/168922648-a3cec1a3-60d0-4691-9ae6-29e0deb20e06.png)
     <ol start="6">
       <li>Then, you’ll select command + b (the shortcut for Edit → Label → Add Label at Selection) to add a label on the label track. A field will pop up, and you can type your annotation. (Example: You may add “Stanza1” to mark the first stanza of a poem.) You could leave the point annotation as it is, or create an annotation as a range with a starting and an ending point.</li>
