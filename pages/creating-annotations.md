@@ -93,7 +93,7 @@ using HTML or markdown.  Do not modify this file above this line -->
       <li>To insert a label at a point in time, you’ll pause the poem by selecting the “p” key, or pressing the pause symbol in the upper left, at the place you want to add a label.</li>
       <li>Select the time marker line to mark the place in time where you want to add the label. This typically will correspond to the place where you paused the audio.</li>
     </ol>
-        ![audacity1](https://user-images.githubusercontent.com/97705205/168941825-bff40044-be8e-455b-b6d4-d9e7329b1704.png)
+![audacity1](https://user-images.githubusercontent.com/97705205/168941825-bff40044-be8e-455b-b6d4-d9e7329b1704.png)
     <ol start="6">
       <li>Then, you’ll select command + b (the shortcut for Edit → Label → Add Label at Selection) to add a label on the label track. A field will pop up, and you can type your annotation. (Example: You may add “Stanza1” to mark the first stanza of a poem.) You could leave the point annotation as it is, or create an annotation as a range with a starting and an ending point.</li>
     </ol>
@@ -136,6 +136,7 @@ using HTML or markdown.  Do not modify this file above this line -->
       <li>You can also add a duration by clicking and holding the blue timecode (above the marker) and dragging it to the right. You can drag the second marker to the end of the clip to annotate a range instead of a point in time. </li>
     </ol>
      ![premiere2](https://user-images.githubusercontent.com/97705205/168941859-d95c2f7d-18c0-42db-a05d-d2aef7c45afa.jpeg)
+        
     <ol start="5">
       <li>Continue adding markers with names for each layer and your annotations under “Comments.” It may help your organization to use distinct colors for markers corresponding to each layer, but it is not necessary. </li>
       <li>Once you have finished annotating your video using markers, follow the instructions below to export your annotation file. </li>
@@ -151,4 +152,4 @@ using HTML or markdown.  Do not modify this file above this line -->
     ![premiere3](https://user-images.githubusercontent.com/97705205/168941863-56477d03-ce0c-4d79-a3b9-14611ca1dadd.png)
 
   </body>
-  </html>
+</html>
