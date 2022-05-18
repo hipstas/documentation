@@ -102,7 +102,7 @@ _[This workflow was created with Tango](https://app.tango.us/app/workflow/3d82c7
 <h2 id="create">Creating a direct link</h2>
 If neither a direct link nor a IIIF manifest are available, you can create your own direct link by uploading the audiovisual item to either the Internet Archive or to Box. This is the best option for audiovisual items in your personal collection or audiovisual items available for download online.
 
-### The Internet Archive
+### <i>With The Internet Archive</i>
 
 ### 1. [Navigate to the Internet Archive](https://archive.org/)
 You will need to sign up or log in to your account in order to upload material.
@@ -127,10 +127,9 @@ You will need to sign up or log in to your account in order to upload material.
 ### 6. Select the “Upload and Create Your Item” button
 ![Step 6 screenshot](https://images.tango.us/public/screenshot_9d112015-de00-407d-8629-7ef4444b77dc.png?crop=focalpoint&fit=crop&fp-x=0.4998&fp-y=0.9048&fp-z=2.2518&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408)
 
-***
 _[This workflow was created with Tango](https://app.tango.us/app/workflow/ccf79428-64c7-45b3-b183-3db29b3ec5f5?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)_
 
-### Box
+### <i>With Box</i>
 
 ### 1. [Upload your audiovisual item to your Box account](https://utexas.app.box.com/file/959148120701)
 
