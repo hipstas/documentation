@@ -26,7 +26,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
         <li> Enter your annotation(s) into the sheet as necessary.</li>
         <li> Once you have completed your annotations, download or save the particular tab of your spreadsheet you filled as either a .tsv, .csv, or .xlsx.</li>
-      </ol>
+      
 <br>
   <p>*An end time would not be necessary to make a point annotation, only a range annotation.</p>
     <p>A <i>point</i> annotation references one point in the audio. Its beginning and end times are the same. An example point annotation looks like:</p>
