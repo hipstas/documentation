@@ -7,10 +7,10 @@ permalink: adding-an-audiovisual-item
 using HTML or markdown.  Do not modify this file above this line -->
 
 # [Adding an Audiovisual Item](https://app.tango.us/app/workflow/d00aebb1-8a78-450f-b554-c90082d4ad64?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-[Via an existing direct link] (#via-an-existing-direct-link) | [Via an existing IIIF manifest] (#via-an-existing-iiif-manifest) | [Creating a direct link] (#creating-a-direct-link)
+<a href=#link>Via an existing direct link</a> | <a href=#IIIF>Via an existing IIIF manifest</a> | <a href=#create>Creating a direct link</a>
 
 ***
-## Via an existing direct link
+<h2 id="link">Via an existing direct link</h2>
 
 ### 1. [Navigate to your projects page in AudiAnnotate](http://audiannotate.brumfieldlabs.com/project/mine)
 
@@ -72,9 +72,9 @@ _[This workflow was created with Tango](https://app.tango.us/app/workflow/d00aeb
 
 ***
 
-## Via an existing IIIF manifest
+<h2 id="IIIF">Via an existing IIIF manifest</h2>
 
 ***
 
-## Creating a direct link
+<h2 id="create">Creating a direct link</h2>
 
