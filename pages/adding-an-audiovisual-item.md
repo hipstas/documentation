@@ -26,56 +26,48 @@ using HTML or markdown.  Do not modify this file above this line -->
       
     <h3><li>Select “Create Item Manifest”</li></h3>
     <p>This creates a new item in the IIIF manifest associated with your project. The page that opens as a result is where you will add metadata for your audiovisual material.</p>
-    <br>
     <img src="https://images.tango.us/public/screenshot_6192242c-d605-4572-bb68-90e7f4dc2c2a.png?crop=focalpoint&fit=crop&fp-x=0.2083&fp-y=0.3642&fp-z=2.4365&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 3 screenshot" border="2">
     <br>
     <br>
 
     <h3><li>Add a label for your audiovisual file</li></h3>
     <p>The label refers to the title of the audiovisual material to which you will be providing a URL and should be human-readable.</p>
-    <br>
     <img src="https://images.tango.us/public/screenshot_dac1bb3c-e151-49bb-b992-ac44a5762c9f.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.2752&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 4 screenshot" border="2">
     <br>
     <br>
 
     <h3><li>Add “Audio File URL”</li></h3>
     <p>This is the direct link to the audiovisual file. (If you need to create a link, please visit <a href="#create">this section</a> of our documentation for more information.)</p>
-    <br>
     <img src="https://images.tango.us/public/screenshot_1579d776-46e7-4f57-bf25-cf88cf48ce33.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.3855&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 5 screenshot" border="2">
     <br>
     <br>
 
     <h3><li>Add the duration of your audiovisual file</li></h3>
     <p>Duration can be input in minutes:seconds or hours:minutes:seconds.</p>
-    <br>
     <img src="https://images.tango.us/public/screenshot_2258329a-2582-4557-a65b-9c7e6eed0866.png?crop=focalpoint&fit=crop&fp-x=0.1896&fp-y=0.5263&fp-z=2.8235&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 6 screenshot" border="2">
     <br>
     <br>
 
     <h3><li>Add the “Item Homepage URL”</li></h3>
     <p>“Item Homepage URL” is the item page where the audiovisual material was retrieved. This, and the fields below, will add provenance metadata to the IIIF manifest.</p>
-    <br>
     <img src="https://images.tango.us/public/screenshot_b5f59b04-1ee0-4100-82cc-aa927a7a4461.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.6366&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 7 screenshot" border="2">
     <br>
     <br>
 
     <h3><li>Add the “Provider Name”</li></h3>
     <p>“Provider Name” is the organization that made the recording available.</p>
-    <br>
     <img src="https://images.tango.us/public/screenshot_2fc2032c-90af-4d83-aebf-1aa6f207a55a.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.7468&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 8 screenshot" border="2">
     <br>
     <br>
 
     <h3><li>Add the “Provider URL”</li></h3>
     <p>“Provider URL” is a link to the organization that made this audiovisual material available.</p>
-    <br>
     <img src="https://images.tango.us/public/screenshot_191da641-eb54-4191-acc5-efa82785cf4a.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.8563&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 9 screenshot" border="2">
     <br>
     <br>
 
     <h3><li>Select “Save”</li></h3>
     <p>This will save the metadata you added to this item in the IIIF manifest.</p>
-    <br>
     <img src="https://images.tango.us/public/screenshot_0817e3f3-1f82-4927-a206-6310727ad241.png?crop=focalpoint&fit=crop&fp-x=0.1816&fp-y=0.9388&fp-z=2.9569&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 10 screenshot" border="2">
     <br>
     <br>
