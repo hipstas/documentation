@@ -10,67 +10,77 @@ using HTML or markdown.  Do not modify this file above this line -->
   <body>
 
     <h1>Adding an Audiovisual Item</h1>
-<p><a href="#link">Via an existing direct link</a> | <a href="#IIIF">Via an existing IIIF manifest</a> | <a href="#create">Creating a direct link</a></p>
+    <p><a href="#link">Via an Existing Direct Link</a> | <a href="#IIIF">Via an Existing IIIF Manifest</a> | <a href="#create">Creating a Direct Link</a></p>
 
-<hr>
-<h2 id="link">Via an existing direct link</h2>
-<p>If you can access a direct link to the audiovisual item, you can add that URL directly to AudiAnnotate to import the material. Some institutions make direct URLs readiily available; other times they can be found in a webpage's HTML code or by downloading the material. A direct link should open the item in a web browser as a standalone object. It should begin as a web address and end with the file format, e.g. .mp3, .mp4, .wav, etc.</p>
+    <hr>
+    <h2 id="link">Via an Existing Direct Link</h2>
+    <p>If you can access a direct link to the audiovisual item, you can add that URL directly to AudiAnnotate to import the material. Some institutions make direct URLs readiily available; other times they can be found in a webpage's HTML code or by downloading the material. A direct link should open the item in a web browser as a standalone object. It should begin as a web address and end with the file format, e.g. .mp3, .mp4, .wav, etc.</p>
 
     <ol>
-    <h3><li><a href="http://audiannotate.brumfieldlabs.com/project/mine">Navigate to your projects page in AudiAnnotate</a></li></h3>
+    <h3><li>Navigate to your <a href="http://audiannotate.brumfieldlabs.com/project/mine">projects page</a> in AudiAnnotate</li></h3>
 
     <h3><li>Select “Edit” for the appropriate project</li></h3>
-      <img src="https://images.tango.us/public/screenshot_d5d40709-fe22-446f-afa0-27e377a3ab56.png?crop=focalpoint&fit=crop&fp-x=0.5488&fp-y=0.4844&fp-z=2.8706&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 2 screenshot">
+    <img src="https://images.tango.us/public/screenshot_d5d40709-fe22-446f-afa0-27e377a3ab56.png?crop=focalpoint&fit=crop&fp-x=0.5488&fp-y=0.4844&fp-z=2.8706&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 2 screenshot" border="2">
+    <br>
+    <br>
+      
+    <h3><li>Select “Create Item Manifest”</li></h3>
+    <p>This creates a new item in the IIIF manifest associated with your project. The page that opens as a result is where you will add metadata for your audiovisual material.</p>
+    <br>
+    <img src="https://images.tango.us/public/screenshot_6192242c-d605-4572-bb68-90e7f4dc2c2a.png?crop=focalpoint&fit=crop&fp-x=0.2083&fp-y=0.3642&fp-z=2.4365&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 3 screenshot" border="2">
+    <br>
+    <br>
 
-      <h3><li>Select “Create Item Manifest”</li></h3>
-<p>This creates a new item in the IIIF manifest associated with your project. The page that opens as a result is where you will add metadata for your audiovisual material.</p>
-<br>
-<img src="https://images.tango.us/public/screenshot_6192242c-d605-4572-bb68-90e7f4dc2c2a.png?crop=focalpoint&fit=crop&fp-x=0.2083&fp-y=0.3642&fp-z=2.4365&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 3 screenshot">
+    <h3><li>Add a label for your audiovisual file</li></h3>
+    <p>The label refers to the title of the audiovisual material to which you will be providing a URL and should be human-readable.</p>
+    <br>
+    <img src="https://images.tango.us/public/screenshot_dac1bb3c-e151-49bb-b992-ac44a5762c9f.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.2752&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 4 screenshot" border="2">
+    <br>
+    <br>
 
+    <h3><li>Add “Audio File URL”</li></h3>
+    <p>This is the direct link to the audiovisual file. (If you need to create a link, please visit <a href="#create">this section</a> of our documentation for more information.)</p>
+    <br>
+    <img src="https://images.tango.us/public/screenshot_1579d776-46e7-4f57-bf25-cf88cf48ce33.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.3855&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 5 screenshot" border="2">
+    <br>
+    <br>
 
-<h3><li>Add a label for your audiovisual file</li></h3>
-<p>The label refers to the title of the audiovisual material to which you will be providing a URL and should be human-readable.</p>
-<br>
-<img src="https://images.tango.us/public/screenshot_dac1bb3c-e151-49bb-b992-ac44a5762c9f.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.2752&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 4 screenshot">
+    <h3><li>Add the duration of your audiovisual file</li></h3>
+    <p>Duration can be input in minutes:seconds or hours:minutes:seconds.</p>
+    <br>
+    <img src="https://images.tango.us/public/screenshot_2258329a-2582-4557-a65b-9c7e6eed0866.png?crop=focalpoint&fit=crop&fp-x=0.1896&fp-y=0.5263&fp-z=2.8235&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 6 screenshot" border="2">
+    <br>
+    <br>
 
+    <h3><li>Add the “Item Homepage URL”</li></h3>
+    <p>“Item Homepage URL” is the item page where the audiovisual material was retrieved. This, and the fields below, will add provenance metadata to the IIIF manifest.</p>
+    <br>
+    <img src="https://images.tango.us/public/screenshot_b5f59b04-1ee0-4100-82cc-aa927a7a4461.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.6366&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 7 screenshot" border="2">
+    <br>
+    <br>
 
-<h3><li>Add “Audio File URL”</li></h3>
-<p>This is the direct link to the audiovisual file. (If you need to create a link, please visit <a href="#create">this section</a> of our documentation for more information.)</p>
-<br>
-<img src="https://images.tango.us/public/screenshot_1579d776-46e7-4f57-bf25-cf88cf48ce33.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.3855&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 5 screenshot">
-<br>
+    <h3><li>Add the “Provider Name”</li></h3>
+    <p>“Provider Name” is the organization that made the recording available.</p>
+    <br>
+    <img src="https://images.tango.us/public/screenshot_2fc2032c-90af-4d83-aebf-1aa6f207a55a.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.7468&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 8 screenshot" border="2">
+    <br>
+    <br>
 
-<h3><li>Add the duration of your audiovisual file</li></h3>
-<p>Duration can be input in minutes:seconds or hours:minutes:seconds.</p>
-<br>
-<img src="https://images.tango.us/public/screenshot_2258329a-2582-4557-a65b-9c7e6eed0866.png?crop=focalpoint&fit=crop&fp-x=0.1896&fp-y=0.5263&fp-z=2.8235&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 6 screenshot">
-<br>
+    <h3><li>Add the “Provider URL”</li></h3>
+    <p>“Provider URL” is a link to the organization that made this audiovisual material available.</p>
+    <br>
+    <img src="https://images.tango.us/public/screenshot_191da641-eb54-4191-acc5-efa82785cf4a.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.8563&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 9 screenshot" border="2">
+    <br>
+    <br>
 
-<h3><li>Add the “Item Homepage URL”</li></h3>
-<p>“Item Homepage URL” is the item page where the audiovisual material was retrieved. This, and the fields below, will add provenance metadata to the IIIF manifest.</p>
-<br>
-<img src="https://images.tango.us/public/screenshot_b5f59b04-1ee0-4100-82cc-aa927a7a4461.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.6366&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 7 screenshot">
-<br>
-
-<h3><li>Add the “Provider Name”</li></h3>
-<p>“Provider Name” is the organization that made the recording available.</p>
-<br>
-<img src="https://images.tango.us/public/screenshot_2fc2032c-90af-4d83-aebf-1aa6f207a55a.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.7468&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 8 screenshot">
-<br>
-
-<h3><li>Add the “Provider URL”</li></h3>
-<p>“Provider URL” is a link to the organization that made this audiovisual material available.</p>
-<br>
-<img src="https://images.tango.us/public/screenshot_191da641-eb54-4191-acc5-efa82785cf4a.png?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.8563&fp-z=2.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 9 screenshot">
-<br>
-
-<h3><li>Select “Save”</li></h3>
-<p>This will save the metadata you added to this item in the IIIF manifest.</p>
-<br>
-<img src="https://images.tango.us/public/screenshot_0817e3f3-1f82-4927-a206-6310727ad241.png?crop=focalpoint&fit=crop&fp-x=0.1816&fp-y=0.9388&fp-z=2.9569&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 10 screenshot">
-<br>
-<hr>
-<p><a href="https://app.tango.us/app/workflow/d00aebb1-8a78-450f-b554-c90082d4ad64?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links">This workflow was created with Tango</a></p>
+    <h3><li>Select “Save”</li></h3>
+    <p>This will save the metadata you added to this item in the IIIF manifest.</p>
+    <br>
+    <img src="https://images.tango.us/public/screenshot_0817e3f3-1f82-4927-a206-6310727ad241.png?crop=focalpoint&fit=crop&fp-x=0.1816&fp-y=0.9388&fp-z=2.9569&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 10 screenshot" border="2">
+    <br>
+    <br>
+      
+    <p>This workflow was created with <a href="https://app.tango.us/app/workflow/d00aebb1-8a78-450f-b554-c90082d4ad64?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links">Tango</a></p>
 
 <hr>
 
