@@ -16,9 +16,9 @@ using HTML or markdown.  Do not modify this file above this line -->
     <ol>
       <h3><li>Navigate to the <a href="http://audiannotate.brumfieldlabs.com">AudiAnnotate application</a></li></h3>
       
-      <h3><li>Log in to your account through GitHub</h3>
+      <h3><li>Log in to your account through GitHub</li></h3>
       <p>Make sure to allow the app to authorize AudiAnnotate. This means that AudiAnnotate will be allowed to manage and write files on your behalf.</p>
-      <img src="https://images.tango.us/public/screenshot_e449590f-beea-42f3-8642-7f654788b381?crop=focalpoint&fit=crop&fp-x=0.7186&fp-y=0.0718&fp-z=2.7688&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" border="2"></li>
+      <img src="https://images.tango.us/public/screenshot_e449590f-beea-42f3-8642-7f654788b381?crop=focalpoint&fit=crop&fp-x=0.7186&fp-y=0.0718&fp-z=2.7688&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" border="2">
       <br>
       
       <li><h3>Select "New Project"</h3>
