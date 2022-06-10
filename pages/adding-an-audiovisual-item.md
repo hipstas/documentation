@@ -23,7 +23,7 @@ using HTML or markdown.  Do not modify this file above this line -->
       <img src="https://images.tango.us/public/screenshot_d5d40709-fe22-446f-afa0-27e377a3ab56.png?crop=focalpoint&fit=crop&fp-x=0.5488&fp-y=0.4844&fp-z=2.8706&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 2 screenshot">
 
       <h3><li>Select “Create Item Manifest”</li></h3>
-<p>This creates a new item in the IIIF manifest associated with your project. The page that opens as a result is where you will add metadata for your audiovisual material.<p>
+<p>This creates a new item in the IIIF manifest associated with your project. The page that opens as a result is where you will add metadata for your audiovisual material.</p>
 <br>
 <img src="https://images.tango.us/public/screenshot_6192242c-d605-4572-bb68-90e7f4dc2c2a.png?crop=focalpoint&fit=crop&fp-x=0.2083&fp-y=0.3642&fp-z=2.4365&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" alt="Step 3 screenshot">
 
