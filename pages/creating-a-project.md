@@ -25,19 +25,23 @@ using HTML or markdown.  Do not modify this file above this line -->
       <p>This will open a page where you will add the metadata to allow AudiAnnotate to generate your project. AudiAnnotate creates a repository or “repo” in GitHub, which is your project’s storage space for any files related to your project.</p>
       <img src="https://images.tango.us/public/screenshot_1c882e5c-bd12-4960-9b99-d75c79b17951?crop=focalpoint&fit=crop&fp-x=0.1969&fp-y=0.8585&fp-z=2.5806&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" border="2">
       <br>
+      <br>
       
       <h3><li>Add a "Title"</li></h3>
       <p>This is the project name, and the name of the GitHub repository that will be generated in this process. This title will also appear as the project name on the AudiAnnotate site under “My Projects.”</p>
       <img src="https://images.tango.us/public/screenshot_6d558217-a424-4853-bcda-fe9744eb6048?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.2162&fp-z=1.9277&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" border="2">
       <br>
+      <br>
       
       <h3><li>Add a description of your project</li></h3>
       <img src="https://images.tango.us/public/screenshot_f46b4e6d-a8d1-4811-a347-827c8868a6d1?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.3713&fp-z=1.9277&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" border="2">
+      <br>
       <br>
       
       <h3><li>Add a project slug</li></h3>
       <p>This becomes the GitHub repository URL. Note: spaces are not recognized. Please use hyphens instead of spaces.</p>
       <img src="https://images.tango.us/public/screenshot_d16ceb5c-4f98-45c7-acdb-0c2dea1d76ae?crop=focalpoint&fit=crop&fp-x=0.2625&fp-y=0.5263&fp-z=1.9277&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" border="2">
+      <br>
       <br>
       
       <h3><li>Select "Create Project"</li></h3>
