@@ -14,7 +14,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
     <hr>
     <h2 id="link">Via an Existing Direct Link</h2>
-    <p>If you can access a direct link to the audiovisual item, you can add that URL directly to AudiAnnotate to import the material. Some institutions make direct URLs readiily available; other times they can be found in a webpage's HTML code or by downloading the material. A direct link should open the item in a web browser as a standalone object. It should begin as a web address and end with the file format, e.g. .mp3, .mp4, .wav, etc.</p>
+    <p>If you can access a direct link to the audiovisual item, you can add that URL directly to AudiAnnotate to import the material. Some institutions make direct URLs readily available; other times they can be found in a webpage's HTML code or by downloading the material. A direct link should open the item in a web browser as a standalone object. It should begin as a web address and end with the file format, e.g. .mp3, .mp4, .wav, etc.</p>
 
     <ol>
     <h3><li>Navigate to your <a href="http://audiannotate.brumfieldlabs.com/project/mine">projects page</a> in AudiAnnotate</li></h3>
