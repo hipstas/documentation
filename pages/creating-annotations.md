@@ -18,6 +18,7 @@ using HTML or markdown.  Do not modify this file above this line -->
     <p>You can use spreadsheet programs like Excel or Google sheets that export .tsv, .csv, or .xlsx files to create and organize annotations for AudiAnnotate. To do so:</p>
       <ol>
         <li>Create a blank spreadsheet or use <a href="https://docs.google.com/spreadsheets/d/1hJV4zSag5I_YFv2N_v00x9qaMqLYU3c_4Fck_okcthk/copy#gid=0">this template</a>. (Upon opening this link, you will be prompted to make a copy of this template for your own use.)</li>
+        <br>
         
         <li>AudiAnnotate accepts annotations formatted with four columns:
           <br>
