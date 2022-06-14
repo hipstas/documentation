@@ -21,6 +21,7 @@ using HTML or markdown.  Do not modify this file above this line -->
         
         <li>AudiAnnotate accepts annotations formatted with four columns:
           <br>
+          <br>
           <img width="667" alt="Screen Shot 2022-06-14 at 1 32 59 PM" src="https://user-images.githubusercontent.com/97705205/173663362-e82c1a8c-e4fc-40eb-8ec7-87db11b5e4e7.png" border="2">
           <br>
           <br>
