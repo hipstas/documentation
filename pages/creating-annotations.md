@@ -10,23 +10,35 @@ using HTML or markdown.  Do not modify this file above this line -->
   <body>
     <h1>Creating Annotations</h1>
     
-    <p> AudiAnnotate exists as a tool to compile and present annotations. Because of that, you do not create your annotations in AudiAnnotate, but bring your existing annotations to the application. Editing software like Audacity and Adobe Premiere can facilitate the annotation-creation process, but because annotations just need to be uploaded as structured data on a simple tab-separated file, you do not need to use other software if that is not your preference. The instructions below will walk you through annotation creation using <a href="#spreadsheet">a simple spreadsheet</a>, <a href="#audacity">Audacity</a>, and <a href="#adobe">Adobe Premiere</a>.</p>
+    <p> AudiAnnotate is a tool to compile and present existing annotations. You will not create your annotations in AudiAnnotate, but instead import annotations created elsewhere. Annotations can be imported as a .tsv, .csv, .xlsx, or tab-separated .txt file. There are many different types of software that can facilitate making annotation files in these formats. Below, you'll find instructions for making annotations using <a href="#spreadsheet">a simple spreadsheet</a>, <a href="#audacity">Audacity</a>, and <a href="#adobe">Adobe Premiere</a>.</p>
+    
     <hr>
+    
     <h2 id="spreadsheet">Creating Annotations Using a Spreadsheet</h2>
     <p>You can use spreadsheet programs like Excel or Google sheets that export .tsv, .csv, or .xlsx files to create and organize annotations for AudiAnnotate. To do so:</p>
       <ol>
         <li>Create a blank spreadsheet or use <a href="https://docs.google.com/spreadsheets/d/1hJV4zSag5I_YFv2N_v00x9qaMqLYU3c_4Fck_okcthk/copy#gid=0">this template</a>. (Upon opening this link, you will be prompted to make a copy of this template for your own use.)</li>
+        
         <li>AudiAnnotate accepts annotations formatted with four columns:
+          <img width="667" alt="Screen Shot 2022-06-14 at 1 32 59 PM" src="https://user-images.githubusercontent.com/97705205/173663362-e82c1a8c-e4fc-40eb-8ec7-87db11b5e4e7.png" border="2">
+          <br>
+          <br>
           <ul>
-            <li>The first column should contain the beginning time (in total seconds) of the annotations.</li>
-            <li>The second column should contain the end time (in total seconds) of the annotation if necessary*.</li>
+            <li>The first column should contain the beginning time (in total seconds or HR:MIN:SEC format) of the annotations.</li>
+            <li>The second column should contain the end time (in total seconds or HR:MIN:SEC format) of the annotation if necessary*.</li>
             <li>The third column should contain the contents of your annotation.</li>
             <li>The fourth column should contain the name of the layer. The layer column is where you can differentiate types of annotations. Write your layer names as you would like them to appear in AudiAnnotate (e.g., "E_Layer," "Notes").</li>
           </ul>
+          
         <li> Enter your annotation(s) into the sheet as necessary.</li>
+        <img width="783" alt="Screen Shot 2022-06-14 at 1 35 41 PM" src="https://user-images.githubusercontent.com/97705205/173663821-9734c87b-402d-4540-88bb-1f69485a9230.png" border="2">
+        <br>
+        <br>
+        
         <li> Once you have completed your annotations, download or save the particular tab of your spreadsheet you filled as either a .tsv, .csv, or .xlsx.</li>
-      
-    <br>
+        <img width="483" alt="Screen Shot 2022-06-14 at 1 36 42 PM" src="https://user-images.githubusercontent.com/97705205/173664033-0d63f3a3-a153-4282-ad9d-0a321c3b913a.png" border="2">
+        <br>
+        <br>
 
     <p>*An end time would not be necessary to make a point annotation, only a range annotation.</p>
     <p>A <i>point</i> annotation references one point in the audio. Its beginning and end times are the same. An example point annotation looks like:</p>
