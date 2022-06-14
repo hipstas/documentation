@@ -97,7 +97,7 @@ using HTML or markdown.  Do not modify this file above this line -->
   
     <hr>
     <h2 id="audacity">Creating Annotations Using Audacity</h2>
-    <p><i>Note on Audacity Spyware Controversy:</i></p>
+    <p border="2"><i>Note on Audacity Spyware Controversy:</i></p>
     <p>Audacity has been accused in the past of being spyware when <a href="https://web.archive.org/web/20210717112058/https://www.audacityteam.org/about/desktop-privacy-notice/">an updated privacy policy</a> mentioned that data may be shared with the company that recently acquired Audacity, WSM Group, which is headquartered in Russia. Audacity published <a href="https://github.com/audacity/audacity/discussions/1225">a statement on GitHub</a> that shares more context on the policy. The post mentions that Audacity does not sell any third party data and that data collected at the desktop level includes IP address, OS version and CPU type, and error report data.</p>
     
     <h3><i>Downloading Audacity</i></h3>
