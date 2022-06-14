@@ -20,6 +20,7 @@ using HTML or markdown.  Do not modify this file above this line -->
         <li>Create a blank spreadsheet or use <a href="https://docs.google.com/spreadsheets/d/1hJV4zSag5I_YFv2N_v00x9qaMqLYU3c_4Fck_okcthk/copy#gid=0">this template</a>. (Upon opening this link, you will be prompted to make a copy of this template for your own use.)</li>
         
         <li>AudiAnnotate accepts annotations formatted with four columns:
+          <br>
           <img width="667" alt="Screen Shot 2022-06-14 at 1 32 59 PM" src="https://user-images.githubusercontent.com/97705205/173663362-e82c1a8c-e4fc-40eb-8ec7-87db11b5e4e7.png" border="2">
           <br>
           <br>
@@ -29,13 +30,16 @@ using HTML or markdown.  Do not modify this file above this line -->
             <li>The third column should contain the contents of your annotation.</li>
             <li>The fourth column should contain the name of the layer. The layer column is where you can differentiate types of annotations. Write your layer names as you would like them to appear in AudiAnnotate (e.g., "E_Layer," "Notes").</li>
           </ul>
+          <br>
           
         <li> Enter your annotation(s) into the sheet as necessary.</li>
+        <br>
         <img width="783" alt="Screen Shot 2022-06-14 at 1 35 41 PM" src="https://user-images.githubusercontent.com/97705205/173663821-9734c87b-402d-4540-88bb-1f69485a9230.png" border="2">
         <br>
         <br>
         
         <li> Once you have completed your annotations, download or save the particular tab of your spreadsheet you filled as either a .tsv, .csv, or .xlsx.</li>
+        <br>
         <img width="483" alt="Screen Shot 2022-06-14 at 1 36 42 PM" src="https://user-images.githubusercontent.com/97705205/173664033-0d63f3a3-a153-4282-ad9d-0a321c3b913a.png" border="2">
         <br>
         <br>
