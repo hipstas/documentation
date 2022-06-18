@@ -11,7 +11,6 @@ using HTML or markdown.  Do not modify this file above this line -->
 
    <h1>Exporting for Preservation or Publication</h1>
    <p><a href="#preserve">For Preservation</a> | <a href="#publish">For Publication</a></p>
-   <br>
    <p>Because AudiAnnotate project sites are built using Jekyll, a static site generator, you can export them from GitHub and preserve or publish elsewhere.</p>
 
    <p>To export from GitHub, go to the repository page and look for the green “Code” button. Select “Download ZIP”.</p>
