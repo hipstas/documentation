@@ -158,7 +158,7 @@ using HTML or markdown.  Do not modify this file above this line -->
       <li>List a title for your project under “Name” and select “Ok.” </li>
       <br>
       <li>Once you have done so you can import a .mp4 file by selecting “File” then selecting “Import…” and selecting your downloaded .mp4 to import into Adobe Premiere from your files. </li>
-      
+      <br>
       <li>Double click the still from the .mp4 video in the bottom left-hand corner of the screen to put the clip into the timeline for annotating. Once the .mp4 is visible in the timeline, Adobe Premiere should look like this:</li>
     <img src="https://user-images.githubusercontent.com/97705205/168941855-29852fe8-f2f9-4ce9-89b7-dae9b76bca98.jpeg" alt="premiere1" style="vertical-align:middle;margin:12px 0px" border="2">
    </ol>
