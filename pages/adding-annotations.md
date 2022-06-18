@@ -22,7 +22,7 @@ using HTML or markdown.  Do not modify this file above this line -->
         <br>
     
         <h3><li>Select the title of the appropriate audiovisual file</li></h3>
-        <img src="https://images.tango.us/public/screenshot_13ce8a98-671b-46b9-8917-98781f15d26e.png?crop=focalpoint&fit=crop&fp-x=0.2726&fp-y=0.3474&fp-z=1.9098&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" broder="2">
+        <img src="https://images.tango.us/public/screenshot_13ce8a98-671b-46b9-8917-98781f15d26e.png?crop=focalpoint&fit=crop&fp-x=0.2726&fp-y=0.3474&fp-z=1.9098&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" border="2">
         <br>
         <br>
         
@@ -54,10 +54,8 @@ using HTML or markdown.  Do not modify this file above this line -->
 
         <h3><li>Once you see the green "Ready" alert in the top right of the screen, you can visit the project site to see your annotations</li></h3>
         <img src="https://images.tango.us/public/screenshot_2062c60f-2d3f-4050-9306-51cb76598d74.png?crop=focalpoint&fit=crop&fp-x=0.4999&fp-y=0.4923&fp-z=1.0130&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1406" border="2">
-
+        <br>
+        <br>
         </ol>
         
 <p>This workflow was created with <a href="https://app.tango.us/app/workflow/c4db9297-5677-4720-8890-9cba999ac1a6?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links">Tango</a>
-    
-    </body>
-    </html>
