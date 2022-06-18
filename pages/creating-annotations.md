@@ -107,13 +107,13 @@ using HTML or markdown.  Do not modify this file above this line -->
         
     <ol>
       <li>Open Audacity, and in the top left, navigate to File→ Open, and then select the audio file you will be adding annotations to.</li>
-      
+      <br>
       <li>On the warning screen, make sure the “make a copy” choice is selected, then select ok.</li>
-      
+      <br>
       <li>We’ll use the “Label Track” to add annotations. Select “Tracks,” then “Add New,” then select “Label Track.”</li>
-      
+      <br>
       <li>To insert a label at a point in time, you’ll pause the poem by selecting the “p” key, or pressing the pause symbol in the upper left, at the place you want to add a label.</li>
-      
+      <br>
       <li>Select the time marker line to mark the place in time where you want to add the label. This typically will correspond to the place where you paused the audio.</li>
     <img src="https://user-images.githubusercontent.com/97705205/168941825-bff40044-be8e-455b-b6d4-d9e7329b1704.png" alt="audacity1" style="vertical-align:middle;margin:12px 0px" border="2">
       <br>
@@ -136,7 +136,7 @@ using HTML or markdown.  Do not modify this file above this line -->
         
     <ol>
       <li>When you open the app and add audio, navigate to Edit → Labels, then select “Type to create a label.”</li>
-      
+      <br>
       <li>This creates a shortcut to add a label when any key is pressed. Now as you’re listening, when you type any key, a label will begin, allowing you to add labels without pausing. (Note: This will only add point-in-time labels, not ranges.) Using this method, to pause the audio, you need to use the pause button on the upper left of the interface (the “p” shortcut will not work).</li>
     </ol>
     
@@ -144,7 +144,7 @@ using HTML or markdown.  Do not modify this file above this line -->
         
     <ol>
       <li>Go to File → Export → Export Labels.</li>
-      
+      <br>
       <li>Name your labels and save as a .txt file. You will need this file when creating your project with the AudiAnnotate application.</li>
     </ol>
     
@@ -154,9 +154,9 @@ using HTML or markdown.  Do not modify this file above this line -->
         
     <ol>
       <li>Before creating annotations in Adobe Premiere for your AudiAnnotate video, you will need to create a new project in Adobe Premiere and title the project. Select“New Project…” on the left-hand opening menu of Premiere when prompted.</li>
-      
+      <br>
       <li>List a title for your project under “Name” and select “Ok.” </li>
-      
+      <br>
       <li>Once you have done so you can import a .mp4 file by selecting “File” then selecting “Import…” and selecting your downloaded .mp4 to import into Adobe Premiere from your files. </li>
       
       <li>Double click the still from the .mp4 video in the bottom left-hand corner of the screen to put the clip into the timeline for annotating. Once the .mp4 is visible in the timeline, Adobe Premiere should look like this:</li>
@@ -168,20 +168,19 @@ using HTML or markdown.  Do not modify this file above this line -->
     <ol>
       
       <li>Annotations are added using the “Marker” feature. To add a marker, select the play icon on the timeline to begin the video. Pause the video then select “Marker,”then “Add Marker” where you want to begin annotating. This will drop a marker at that point. </li>
-      
+      <br>
       <li>Once you have dropped a marker, select “Edit Marker” from the drop down menu. </li>
-      
+      <br>
       <li>The Marker “Name” should be the name of each layer you ultimately want in your AudiAnnotate project. The Marker “Comments” should be the text of annotation itself, such as a transcription. </li>
-      
+      <br>
       <li>You can also add a duration by clicking and holding the blue timecode (above the marker) and dragging it to the right. You can drag the second marker to the end of the clip to annotate a range instead of a point in time. </li>
       <img src="https://user-images.githubusercontent.com/97705205/168941859-d95c2f7d-18c0-42db-a05d-d2aef7c45afa.jpeg" alt="premiere2" style="vertical-align:middle;margin:12px 0px" border="2">
       <br>
       <br>
      
       <li>Continue adding markers with names for each layer and your annotations under “Comments.” It may help your organization to use distinct colors for markers corresponding to each layer, but it is not necessary. </li>
-      
+      <br>
       <li>Once you have finished annotating your video using markers, follow the instructions below to export your annotation file. </li>
-      
     </ol>
       
     <h3><i>Exporting Your Annotations from Premiere</i></h3>
@@ -189,11 +188,11 @@ using HTML or markdown.  Do not modify this file above this line -->
     <ol>
       
       <li>Select “File” then select “Export.” </li>
-      
+      <br>
       <li>Under the options for “Export” select “Markers.” </li>
-      
+      <br>
       <li>The default setting for a .csv file works for AudiAnnotate, so keep this export setting. </li> 
-      
+      <br>
       <li>You can rename the file as you wish and select a location for it, but do not edit the formatting of the file before uploading it to AudiAnnotate. </li>
       <img src="https://user-images.githubusercontent.com/97705205/168941863-56477d03-ce0c-4d79-a3b9-14611ca1dadd.png" alt="premiere3" style="vertical-align:middle;margin:12px 0px" border="2">
       </ol>
