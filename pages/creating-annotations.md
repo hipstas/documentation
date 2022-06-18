@@ -97,8 +97,8 @@ using HTML or markdown.  Do not modify this file above this line -->
   
     <hr>
     <h2 id="audacity">Creating Annotations Using Audacity</h2>
-    <p><i>Note on Audacity Spyware Controversy:</i></p>
-    <p><small>Audacity was  accused of being spyware when <a href="https://web.archive.org/web/20210717112058/https://www.audacityteam.org/about/desktop-privacy-notice/">an updated privacy policy</a> mentioned that data may be shared with WSM Group, a company that acquired Audacity and which is headquartered in Russia. Audacity published <a href="https://github.com/audacity/audacity/discussions/1225">a statement on GitHub</a> that shares more context on the policy. The post mentions that Audacity does not sell any third party data and that data collected at the desktop level includes IP address, OS version and CPU type, and error report data.</small></p>
+    <p><i><small>Note on Audacity Spyware Controversy:</i>
+    Audacity was  accused of being spyware when <a href="https://web.archive.org/web/20210717112058/https://www.audacityteam.org/about/desktop-privacy-notice/">an updated privacy policy</a> mentioned that data may be shared with WSM Group, a company that acquired Audacity and which is headquartered in Russia. Audacity published <a href="https://github.com/audacity/audacity/discussions/1225">a statement on GitHub</a> that shares more context on the policy. The post mentions that Audacity does not sell any third party data and that data collected at the desktop level includes IP address, OS version and CPU type, and error report data.</small></p>
     
     <h3><i>Downloading Audacity</i></h3>
     <p>Navigate to Audacity's download page for either your <a href="https://www.audacityteam.org/download/mac/">Mac</a> or <a href="https://www.audacityteam.org/download/windows/">PC</a>. There, you’ll download the .dmg file and double-click to follow instructions for downloading Audacity to your machine. We recommend downloading the latest version.</p>
