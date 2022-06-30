@@ -10,6 +10,7 @@ using HTML or markdown.  Do not modify this file above this line -->
   <body>
     
     <h1>Collaboration via Hypothesis</h1>
+    <p><a href="#group">Creating a Group on Hypothesis</a> | <a href="#annotate">Annotating with Hypothesis</a></p>
     
     <p><a href="https://web.hypothes.is/about/">Hypothesis</a> is “a conversation layer over the entire web that works everywhere, without needing implementation by any underlying site.” Integrating Hypothesis with an AudiAnnotate project allows for a layer of commentary on top of AudiAnnotate annotations from multiple contributors. When annotating with Hypothesis, you can annotate in a group or individually, privately or publicly.</p>
     
@@ -17,7 +18,7 @@ using HTML or markdown.  Do not modify this file above this line -->
    
     <hr>
     
-    <h2>Creating a Group on Hypothesis</h2>
+    <h2 id="group">Creating a Group on Hypothesis</h2>
     <ol>
       <li>Navigate to <a href="https://hypothes.is/">Hypothesis</a> and log in with your account</li>
       <br>
@@ -56,6 +57,8 @@ using HTML or markdown.  Do not modify this file above this line -->
 <p>This workflow was created with <a href="https://app.tango.us/app/workflow/e74e576b-2faa-4261-9d38-f0ffee7b713c?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></p>
       
       <hr>
+    
+    <h2 id="annotate">Annotating with Hypothesis</h2>
     
   </body>
   </html>
