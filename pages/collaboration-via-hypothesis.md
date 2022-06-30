@@ -59,6 +59,46 @@ using HTML or markdown.  Do not modify this file above this line -->
       <hr>
     
     <h2 id="annotate">Annotating with Hypothesis</h2>
+    <ol>
+      <li>Navigate to your project page</li>
+      <br>
+      
+      <li>Activate Hypothesis by clicking its Chrome extension/bookmarklet icon</li>
+      <img src="https://images.tango.us/public/image_9074830b-a6ed-4678-880a-aaba0d447cdc.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&fp-z=1.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=736%3A230" width="600" alt="Activate Hypothesis by clicking its Chrome extension/bookmarklet icon" border="2"/>
+      <br>
+      <br>
+
+      <li>Select the arrow on the right side of the screen to expand Hypothesis</li>
+      <img src="https://images.tango.us/public/image_b544cfae-6d35-4945-8061-a5926f87a95a.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&fp-z=1.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=714%3A350" width="600" alt="Select the arrow on the right side of the screen to expand Hypothesis" border="2"/>
+      <br>
+      <br>
+
+      <li>Log in to Hypothesis</li>
+      <img src="https://images.tango.us/public/image_c4501817-e28c-4964-9e43-91e1f0a399e4.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&fp-z=1.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1344%3A732" width="600" alt="Log in to Hypothesis" border="2"/>
+      <br>
+      <br>
+      
+      <li>Select the appropriate group from the drop down menu</li>
+      <img src="https://images.tango.us/public/image_37ec24d6-18b7-43b6-b0bc-eb61e2d4fa9c.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&fp-z=1.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1306%3A726" width="600" alt="Select the appropriate group from the drop down menu" border="2"/>
+      <br>
+      <br>
+
+      <li>When you highlight text on this page, Hypothesis will offer the chance to add an annotation</li>
+      <p>Click the "Annotate" button to add an annotation</p>
+      <img src="https://images.tango.us/public/image_35b3b379-0682-46d0-baf1-aba06e480ded.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&fp-z=1.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=806%3A548" width="600" alt="When you highlight text on this page, Hypothesis will offer the chance to add an annotation" border="2"/>
+      <br>
+      <br>
+
+      <li>Add an annotation and any desired tags</li>
+      <img src="https://images.tango.us/public/image_1c3d0739-9249-4042-a0c3-b580d07129c4.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&fp-z=1.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2060%3A910" width="600" alt="Add an annotation and any desired tags" border="2"/>
+      <br>
+      <br>
+
+      <li>Select "Post to [Group]" to save your annotation</li>
+      <br>
+      
+    </ol>
+<p>This workflow was created with <a href="https://app.tango.us/app/workflow/49d2c409-307b-4541-a917-925714684390?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></p>
     
   </body>
   </html>
