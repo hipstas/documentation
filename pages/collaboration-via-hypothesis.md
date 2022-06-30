@@ -17,7 +17,7 @@ using HTML or markdown.  Do not modify this file above this line -->
    
     <hr>
     
-    <h2>Creating a Group on Hypothesis</h1>
+    <h2>Creating a Group on Hypothesis</h2>
     <ol>
       <li>Navigate to <a href="https://hypothes.is/">Hypothesis</a> and log in with your account</li>
       <br>
