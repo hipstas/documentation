@@ -21,7 +21,6 @@ using HTML or markdown.  Do not modify this file above this line -->
     <h2 id="group">Creating a Group on Hypothesis</h2>
     <ol>
       <h3><li>Navigate to <a href="https://hypothes.is/">Hypothesis</a> and log in with your account</li></h3>
-      <br>
 
       <h3><li>Open the "Groups" drop down at the upper right corner of the page</li></h3>
       <img src="https://images.tango.us/public/screenshot_66ce6de5-2132-4445-9069-8d822772faac.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.8615&fp-y=0.0476&fp-z=3.1615&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1472" width="600" alt="Open the &quot;Groups&quot; drop down at the upper right corner of the page" border="2"/>
@@ -61,7 +60,6 @@ using HTML or markdown.  Do not modify this file above this line -->
     <h2 id="annotate">Annotating with Hypothesis</h2>
     <ol>
       <h3><li>Navigate to your project page</li></h3>
-      <br>
       
       <h3><li>Activate Hypothesis by clicking its Chrome extension/bookmarklet icon</li></h3>
       <img src="https://images.tango.us/public/image_9074830b-a6ed-4678-880a-aaba0d447cdc.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&fp-z=1.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=736%3A230" width="600" alt="Activate Hypothesis by clicking its Chrome extension/bookmarklet icon" border="2"/>
