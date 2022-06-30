@@ -49,6 +49,8 @@ using HTML or markdown.  Do not modify this file above this line -->
 
       <li>Use the link provided in the bottom right corner of the page to invite any collaborators to join your group</li>
       <img src="https://images.tango.us/public/screenshot_9247a76b-4f9b-45c6-9e05-ba59d7a80da0.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.7854&fp-y=0.6510&fp-z=2.1297&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1472" width="600" alt="Use the link provided in the bottom right corner of the page to invite any collaborators to join your group" border="2"/>
+      <br>
+      <br>
     </ol>
     
 <p>This workflow was created with <a href="https://app.tango.us/app/workflow/e74e576b-2faa-4261-9d38-f0ffee7b713c?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></p>
