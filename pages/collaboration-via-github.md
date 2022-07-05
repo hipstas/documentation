@@ -126,7 +126,7 @@ using HTML or markdown.  Do not modify this file above this line -->
       <br>
       <br>
       
-      <li>Add any text to the README file. We suggest text that shares the origins of the repository, e.g.: “Forked from [username of original user]/[repository name].” (This text will display on the AudiAnnotate site project tile to signal that this is a forked repository.) Commit your changes.</li>
+      <li>Add any text to the README file. We suggest text that shares the origins of the repository, e.g.: “Forked from [username of original user]/[repository name].” Commit your changes.</li>
       <img width="1425" alt="Screen Shot 2022-07-05 at 3 40 51 PM" src="https://user-images.githubusercontent.com/97705205/177403258-e07d791d-aa04-45cc-9a66-e81cf598bc53.png" border="2">
       <br>
       <br>
@@ -149,12 +149,12 @@ using HTML or markdown.  Do not modify this file above this line -->
       <br>
       <br>
       
-      <li>On the next page, you can compare the differences between the original and your forked repositories if desired. Once you are ready to notify the original owner of your proposed changes, select "Create a pull request".</li>
+      <li>On the next page, you can compare the differences between the original and your forked repositories if desired. Once you are ready to notify the original owner of your proposed changes, select "Create pull request".</li>
       <img width="1416" alt="Screen Shot 2022-07-05 at 3 51 37 PM" src="https://user-images.githubusercontent.com/97705205/177405493-aa128c47-5413-4885-a0be-824ef759240b.png" border="2">
       <br>
       <br>
       
-      <li>On this page, you can add a note about what you changed (e.g., “imported additional annotations”) and then select “Create Pull Request”. At this point, GitHub will send a request to the owner of the original project to review your proposed changes.</li>
+      <li>On this page, you can add a note about what you changed (e.g., “imported additional annotations”) and then select “Create pull request”. At this point, GitHub will send a request to the owner of the original project to review your proposed changes.</li>
     <img width="1274" alt="Screen Shot 2022-07-05 at 3 52 14 PM" src="https://user-images.githubusercontent.com/97705205/177405651-f0248dff-600c-43e5-84a9-46d44f4917a8.png" border="2">
       <br>
       <br>
