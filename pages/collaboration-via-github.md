@@ -94,65 +94,72 @@ using HTML or markdown.  Do not modify this file above this line -->
       <br>
       
       <li>Select the fork button.</li>
-      <img width="1437" alt="Screen Shot 2022-07-05 at 12 17 17 PM" src="https://user-images.githubusercontent.com/97705205/177372458-4e2fe6b6-f2d4-42d6-91c6-c6774baecde8.png" border="2">
+      <img width="1427" alt="Screen Shot 2022-07-05 at 3 28 24 PM" src="https://user-images.githubusercontent.com/97705205/177401825-e27e3611-dc42-40dc-8501-e638e033a29f.png" border="2">
       <br>
       <br>
       
-      <li>On the page that opens, you will choose the account to fork the repository to. You'll also have the option to rename the repository and to add a description. Once you've done so, select "create fork".</li>
-      <img width="762" alt="Screen Shot 2022-07-05 at 12 20 34 PM" src="https://user-images.githubusercontent.com/97705205/177372870-fd07c895-1e6e-4ee7-82f5-400f921d8799.png" border="2">
+      <li>On the page that opens, you will choose the account to fork the repository to. You'll also have the option to rename the repository and to add a description. Once you've done so, select "Create fork".</li>
+      <img width="738" alt="Screen Shot 2022-07-05 at 3 32 50 PM" src="https://user-images.githubusercontent.com/97705205/177402053-c8e25521-a4c0-45c4-8a0a-39a38a223d93.png" border="2">
       <br>
       <br>
       
       <li>Back on the repository page, select the gear icon to make a few crucial edits.</li>
-      <img width="1410" alt="Screen Shot 2022-07-05 at 12 25 08 PM" src="https://user-images.githubusercontent.com/97705205/177374843-54150fb7-7010-41f3-a97a-503fa41ce05b.png" border="2">
+      <img width="1430" alt="Screen Shot 2022-07-05 at 3 34 07 PM" src="https://user-images.githubusercontent.com/97705205/177402309-dd4141fe-9554-43aa-8517-11d39aaff41c.png" border="2">
       <br>
       <br>
       
       <ul>
         <li>First, change the repository's URL so that it includes your username rather than the original owner's.</li>
-        <img width="652" alt="Screen Shot 2022-07-05 at 12 29 13 PM" src="https://user-images.githubusercontent.com/97705205/177375057-90c5fe12-d143-4890-9cf1-9f0a7ee0ed13.png" border="2">
+        <img width="652" alt="Screen Shot 2022-07-05 at 3 35 38 PM" src="https://user-images.githubusercontent.com/97705205/177402671-f7d79675-1072-4261-8d2e-7ea109c703c8.png" border="2">
         <br>
         <br>
         
         <li>Next, your forked repository needs to be manually associated with AudiAnnotate. You'll do this by adding the AudiAnnotate "topic" to the repository.</li>
-        <img width="654" alt="Screen Shot 2022-07-05 at 12 29 25 PM" src="https://user-images.githubusercontent.com/97705205/177375235-2cb0f1bf-0bdc-4273-bc1c-04caae3574b5.png" border="2">
+        <img width="658" alt="Screen Shot 2022-07-05 at 3 35 54 PM" src="https://user-images.githubusercontent.com/97705205/177402692-5facfda6-bcb3-4d27-b2e0-1df02b39368f.png" border="2">
         <br>
         <br>
         <li>Save your changes.</li>
       </ul>
       
       <li>Because your project was forked, AudiAnnotate did not automatically generate a webpage for it. To force this creation, edit the README file on the repository page. Select the pencil icon on the README file to make edits.</li>
-      <img width="919" alt="Screen Shot 2022-07-05 at 12 42 48 PM" src="https://user-images.githubusercontent.com/97705205/177378702-ba24f30f-3420-43c8-9a2e-45adff5c35de.png" border="2">
+      <img width="933" alt="Screen Shot 2022-07-05 at 3 37 57 PM" src="https://user-images.githubusercontent.com/97705205/177402906-ef66330b-8163-4cdb-afc9-dbbacee79a0f.png" border="2">
       <br>
       <br>
       
       <li>Add any text to the README file. We suggest text that shares the origins of the repository, e.g.: “Forked from [username of original user]/[repository name].” (This text will display on the AudiAnnotate site project tile to signal that this is a forked repository.) Commit your changes.</li>
+      <img width="1425" alt="Screen Shot 2022-07-05 at 3 40 51 PM" src="https://user-images.githubusercontent.com/97705205/177403258-e07d791d-aa04-45cc-9a66-e81cf598bc53.png" border="2">
+      <br>
+      <br>
     
     </ol>
     
     <h3><i>Editing a Forked Repository</i></h3>
-    <p>When you edit a forked repository, you make no effect on the original project. Edits will have to be approved by the project's original owner in order to be merged into the original project.</p>
     
     <ol>
       <li>Navigate to your projects page in AudiAnnotate. You should see a project tile for your forked repository there—look for the "Forked from..." text on the tile.</li>
-      <img width="493" alt="Screen Shot 2022-07-05 at 1 51 20 PM" src="https://user-images.githubusercontent.com/97705205/177386870-53a86707-234b-4df0-ab6b-a15eafe0f31a.png" border="2">
+      <img width="483" alt="Screen Shot 2022-07-05 at 3 42 57 PM" src="https://user-images.githubusercontent.com/97705205/177403535-d0b8e981-453d-4d0b-9679-30120251650c.png" border="2">
       <br>
       <br>
       
       <li>Click the edit button and proceed to make changes as desired.</li>
       <br>
       
-      <li>Once your changes have been made, you must submit a pull request wihtin GitHub. Navigate to the GitHub repository page and select the "Pull request button".</li>
-      
+      <li>Once your changes have been made, you must submit a pull request wihtin GitHub. Navigate to the GitHub repository page and open the drop down under "Contribute". From there, select "Open pull request".</li>
+      <img width="1429" alt="Screen Shot 2022-07-05 at 3 47 36 PM" src="https://user-images.githubusercontent.com/97705205/177404613-cbfc3544-de0f-4075-ae5a-18c0062656f1.png" border="2">
       <br>
       <br>
       
-      <li></li>
-      
+      <li>On the next page, you can compare the differences between the original and your forked repositories if desired. Once you are ready to notify the original owner of your proposed changes, select "Create a pull request".</li>
+      <img width="1416" alt="Screen Shot 2022-07-05 at 3 51 37 PM" src="https://user-images.githubusercontent.com/97705205/177405493-aa128c47-5413-4885-a0be-824ef759240b.png" border="2">
       <br>
       <br>
-    </ol>
       
+      <li>On this page, you can add a note about what you changed (e.g., “imported additional annotations”) and then select “Create Pull Request”. At this point, GitHub will send a request to the owner of the original project to review your proposed changes.</li>
+    <img width="1274" alt="Screen Shot 2022-07-05 at 3 52 14 PM" src="https://user-images.githubusercontent.com/97705205/177405651-f0248dff-600c-43e5-84a9-46d44f4917a8.png" border="2">
+      <br>
+      <br>
+      </ol>
+
     <h3><i>Responding to a Pull Request</i></h3>
     <p>Once a collaborator has created a pull request requesting a change in a repository that you own, you will have to review it and merge the changes.</p>
     
