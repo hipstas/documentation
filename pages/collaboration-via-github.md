@@ -64,7 +64,7 @@ using HTML or markdown.  Do not modify this file above this line -->
     
     <p>After the original owner of the repository has created a project, added audiovisual material(s), and attached annotations, they can provide collaborators with a link to the repository in GitHub. With that link, collaborators will be able to "fork" (copy) the repository into their own GitHub account. They can make changes to their copy of the repository before submitting a "pull" request to the original owner. The owner will be notified of the request and have the option to either adopt the changes or reject them.</p>
     
-    <h3>Sharing the Repository Link</h3>
+    <h3><i>Sharing the Repository Link</i></h3>
     <ol>
       <li>Navigate to <a href="https://github.com/" target="_blank">GitHub</a></li>
       
@@ -85,16 +85,16 @@ using HTML or markdown.  Do not modify this file above this line -->
       <br>
       <br>
       
-      <li>Copy the link to your project's repository from the right side of the screen. Send this link to any collaborators so that they can "fork" the repository into their own GitHub account.</li>
-      <img width="1428" alt="Repository link" src="https://user-images.githubusercontent.com/97705205/177358640-8a52375d-8a08-43f2-b5e7-faf0b1a0acb4.png" border="2">
+      <li>Copy the link to your project's repository from your browser's address bar. (The link should follow this formula: github.com/YourUsername/YourProjectName.) Send this link to any collaborators so that they can "fork" the repository into their own GitHub account.</li>
     </ol>
     
-    <h3>Forking a Repository</h3>
+    <h3><i>Forking a Repository</i></h3>
     
     
-    <h3>Editing a Forked Repository</h3>
     
-    <h3>Responding to a Pull Request</h3>
+    <h3><i>Editing a Forked Repository</i></h3>
+    
+    <h3><i>Responding to a Pull Request</i></h3>
     
   </body>
   </html>
