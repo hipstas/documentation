@@ -68,6 +68,8 @@ using HTML or markdown.  Do not modify this file above this line -->
     <ol>
       <li>Navigate to <a href="https://github.com/" target="_blank">GitHub</a></li>
       
+      <br>
+      
       <li>Open the drop down menu at the top right corner</li>
       <img src="https://images.tango.us/public/screenshot_2ce41f46-447e-4225-a1cd-d42151b65ec7.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.9668&fp-y=0.0440&fp-z=3.0189&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Open the drop down menu at the top right corner" border="2"/>
       <br>
@@ -83,9 +85,8 @@ using HTML or markdown.  Do not modify this file above this line -->
       <br>
       <br>
       
-      <li>Copy the link to your project's repository from the right side of the screen</li>
-      <p>Send this link to any collaborators so that they can "fork" the repository into their own GitHub account.
-      <<img width="1428" alt="Repository link" src="https://user-images.githubusercontent.com/97705205/177358640-8a52375d-8a08-43f2-b5e7-faf0b1a0acb4.png" border="2">
+      <li>Copy the link to your project's repository from the right side of the screen. Send this link to any collaborators so that they can "fork" the repository into their own GitHub account.</li>
+      <img width="1428" alt="Repository link" src="https://user-images.githubusercontent.com/97705205/177358640-8a52375d-8a08-43f2-b5e7-faf0b1a0acb4.png" border="2">
     </ol>
     
     <h3>Forking a Repository</h3>
