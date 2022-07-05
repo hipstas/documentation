@@ -62,6 +62,39 @@ using HTML or markdown.  Do not modify this file above this line -->
     
     <h2 id="fork">Fork and Pull</h2>
     
+    <p>After the original owner of the repository has created a project, added audiovisual material(s), and attached annotations, they can provide collaborators with a link to the repository in GitHub. With that link, collaborators will be able to "fork" (copy) the repository into their own GitHub account. They can make changes to their copy of the repository before submitting a "pull" request to the original owner. The owner will be notified of the request and have the option to either adopt the changes or reject them.</p>
+    
+    <h3>Sharing the Repository Link</h3>
+    <ol>
+      <li>Navigate to <a href="https://github.com/" target="_blank">GitHub</a></li>
+      
+      <li>Open the drop down menu at the top right corner</li>
+      <img src="https://images.tango.us/public/screenshot_2ce41f46-447e-4225-a1cd-d42151b65ec7.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.9668&fp-y=0.0440&fp-z=3.0189&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Open the drop down menu at the top right corner" border="2"/>
+      <br>
+      <br> 
+
+      <li>Select "Your repositories"</li>
+      <img src="https://images.tango.us/public/screenshot_7e3cc8ef-d672-4f54-9aeb-1da3d03af7b3.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.9153&fp-y=0.2649&fp-z=2.9309&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Select &quot;Your repositories&quot;" border="2"/>
+      <br>
+      <br>
+
+      <li>Select the repository to which you would like to invite others</li>
+      <img src="https://images.tango.us/public/screenshot_ab33a258-3946-42d1-aa99-161f8016b7d7.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3387&fp-y=0.3448&fp-z=2.6495&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Select the repository to which you would like to invite others" border="2"/>
+      <br>
+      <br>
+      
+      <li>Copy the link to your project's repository from the right side of the screen</li>
+      <p>Send this link to any collaborators so that they can "fork" the repository into their own GitHub account.
+      <<img width="1428" alt="Repository link" src="https://user-images.githubusercontent.com/97705205/177358640-8a52375d-8a08-43f2-b5e7-faf0b1a0acb4.png" border="2">
+    </ol>
+    
+    <h3>Forking a Repository</h3>
+    
+    
+    <h3>Editing a Forked Repository</h3>
+    
+    <h3>Responding to a Pull Request</h3>
+    
   </body>
   </html>
   
