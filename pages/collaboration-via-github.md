@@ -66,21 +66,21 @@ using HTML or markdown.  Do not modify this file above this line -->
     
     <h3><i>Sharing the Repository Link</i></h3>
     <ol>
-      <li>Navigate to <a href="https://github.com/" target="_blank">GitHub</a></li>
+      <li>Navigate to <a href="https://github.com/" target="_blank">GitHub</a>.</li>
       
       <br>
       
-      <li>Open the drop down menu at the top right corner</li>
+      <li>Open the drop down menu at the top right corner.</li>
       <img src="https://images.tango.us/public/screenshot_2ce41f46-447e-4225-a1cd-d42151b65ec7.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.9668&fp-y=0.0440&fp-z=3.0189&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Open the drop down menu at the top right corner" border="2"/>
       <br>
       <br> 
 
-      <li>Select "Your repositories"</li>
+      <li>Select "Your repositories".</li>
       <img src="https://images.tango.us/public/screenshot_7e3cc8ef-d672-4f54-9aeb-1da3d03af7b3.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.9153&fp-y=0.2649&fp-z=2.9309&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Select &quot;Your repositories&quot;" border="2"/>
       <br>
       <br>
 
-      <li>Select the repository to which you would like to invite others</li>
+      <li>Select the repository to which you would like to invite others.</li>
       <img src="https://images.tango.us/public/screenshot_ab33a258-3946-42d1-aa99-161f8016b7d7.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3387&fp-y=0.3448&fp-z=2.6495&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Select the repository to which you would like to invite others" border="2"/>
       <br>
       <br>
@@ -89,8 +89,46 @@ using HTML or markdown.  Do not modify this file above this line -->
     </ol>
     
     <h3><i>Forking a Repository</i></h3>
+    <ol>
+      <li>Open the repository link supplied by its original owner.</li>
+      <br>
+      
+      <li>Select the fork button.</li>
+      <img width="1437" alt="Screen Shot 2022-07-05 at 12 17 17 PM" src="https://user-images.githubusercontent.com/97705205/177372458-4e2fe6b6-f2d4-42d6-91c6-c6774baecde8.png" border="2">
+      <br>
+      <br>
+      
+      <li>On the page that opens, you will choose the account to fork the repository to. You'll also have the option to rename the repository and to add a description. Once you've done so, select "create fork".</li>
+      <img width="762" alt="Screen Shot 2022-07-05 at 12 20 34 PM" src="https://user-images.githubusercontent.com/97705205/177372870-fd07c895-1e6e-4ee7-82f5-400f921d8799.png" border="2">
+      <br>
+      <br>
+      
+      <li>Select the gear icon to make a few crucial edits.</li>
+      <img width="1410" alt="Screen Shot 2022-07-05 at 12 25 08 PM" src="https://user-images.githubusercontent.com/97705205/177374843-54150fb7-7010-41f3-a97a-503fa41ce05b.png" border="2">
+      <br>
+      <br>
+      
+      <ul>
+        <li>First, change the repository's URL so that it includes your username rather than the original owner's.</li>
+        <img width="652" alt="Screen Shot 2022-07-05 at 12 29 13 PM" src="https://user-images.githubusercontent.com/97705205/177375057-90c5fe12-d143-4890-9cf1-9f0a7ee0ed13.png" border="2">
+        <br>
+        <br>
+        
+        <li>Next, your forked repository needs to be manually associated with AudiAnnotate. You'll do this by adding the AudiAnnotate "topic" to the repository.</li>
+        <img width="654" alt="Screen Shot 2022-07-05 at 12 29 25 PM" src="https://user-images.githubusercontent.com/97705205/177375235-2cb0f1bf-0bdc-4273-bc1c-04caae3574b5.png" border="2">
+        <br>
+        <br>
+        <li>Save your changes.</li>
+      </ul>
+      
+      <li>Because your project was forked, AudiAnnotate did not automatically generate a webpage for it. To force this creation, edit the README file on the repository page. Select the pencil icon on the README file to make edits.</li>
+      <img width="919" alt="Screen Shot 2022-07-05 at 12 42 48 PM" src="https://user-images.githubusercontent.com/97705205/177378702-ba24f30f-3420-43c8-9a2e-45adff5c35de.png" border="2">
+      <br>
+      <br>
+      
+      <li>Add any text to the README file. We suggest text that shares the origins of the repository, e.g.: “Forked from [username of original user]/[repository name].” (This text will display on the AudiAnnotate site project tile to signal that this is a forked repository.) Commit your changes.</li>
     
-    
+    </ol>
     
     <h3><i>Editing a Forked Repository</i></h3>
     
