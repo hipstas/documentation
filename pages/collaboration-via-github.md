@@ -103,7 +103,7 @@ using HTML or markdown.  Do not modify this file above this line -->
       <br>
       <br>
       
-      <li>Select the gear icon to make a few crucial edits.</li>
+      <li>Back on the repository page, select the gear icon to make a few crucial edits.</li>
       <img width="1410" alt="Screen Shot 2022-07-05 at 12 25 08 PM" src="https://user-images.githubusercontent.com/97705205/177374843-54150fb7-7010-41f3-a97a-503fa41ce05b.png" border="2">
       <br>
       <br>
@@ -131,9 +131,39 @@ using HTML or markdown.  Do not modify this file above this line -->
     </ol>
     
     <h3><i>Editing a Forked Repository</i></h3>
+    <p>When you edit a forked repository, you make no effect on the original project. Edits will have to be approved by the project's original owner in order to be merged into the original project.</p>
     
+    <ol>
+      <li>Navigate to your projects page in AudiAnnotate. You should see a project tile for your forked repository there—look for the "Forked from..." text on the tile.</li>
+      <img width="493" alt="Screen Shot 2022-07-05 at 1 51 20 PM" src="https://user-images.githubusercontent.com/97705205/177386870-53a86707-234b-4df0-ab6b-a15eafe0f31a.png" border="2">
+      <br>
+      <br>
+      
+      <li>Click the edit button and proceed to make changes as desired.</li>
+      <br>
+      
+      <li>Once your changes have been made, you must submit a pull request wihtin GitHub. Navigate to the GitHub repository page and select the "Pull request button".</li>
+      
+      <br>
+      <br>
+      
+      <li></li>
+      
+      <br>
+      <br>
+    </ol>
+      
     <h3><i>Responding to a Pull Request</i></h3>
+    <p>Once a collaborator has created a pull request requesting a change in a repository that you own, you will have to review it and merge the changes.</p>
     
+    <ol>
+      <li>GitHub will send an email notification when a pull request has been created. This email will provide a link to the pull request made by the collaborator.</li>
+      
+      <br>
+      
+      <li>When you open the pull request, you will see the changes being requested by the collaborator. You can select into the files where changes are being. Additions to each file appear in green with a plus (+) sign at the start of the row, while items being deleted appear in red with a minus (-) sign.</li>
+      
+      
   </body>
   </html>
   
