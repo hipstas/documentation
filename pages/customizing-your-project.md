@@ -20,7 +20,6 @@ using HTML or markdown.  Do not modify this file above this line -->
     <ol>
       
     <h3><li>Navigate to <a href="http://audiannotate.brumfieldlabs.com/project/mine" target="_blank">your projects page</a> in AudiAnnotate</li></h3>
-    <br>
 
     <h3><li>Select “Edit” for the appropriate project</li></h3>
     <img src="https://images.tango.us/public/screenshot_27efb45e-6682-427d-9592-12abe7b35baf.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.1925&fp-y=0.2713&fp-z=2.8711&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Select “Edit” for the appropriate project" border="2"/>
@@ -41,7 +40,9 @@ using HTML or markdown.  Do not modify this file above this line -->
 
     <h3><li>Select "Commit changes"</li></h3>
     <img src="https://images.tango.us/public/screenshot_0dccf774-2000-4e34-af78-f39751b2fdc3.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.1988&fp-y=0.7557&fp-z=2.4935&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Select &quot;Commit changes&quot;" border="2"/>
-     
+     <br>
+     <br>
+      
     <p>This workflow was created with <a href="https://app.tango.us/app/workflow/7f3e7c45-d7ec-4af2-86f4-c9a7bb148c8f?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></p>
 
     <hr>
