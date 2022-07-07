@@ -45,7 +45,9 @@ using HTML or markdown.  Do not modify this file above this line -->
     <img src="https://images.tango.us/public/screenshot_0dccf774-2000-4e34-af78-f39751b2fdc3.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.1988&fp-y=0.7557&fp-z=2.4935&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Select &quot;Commit changes&quot;" border="2"/>
      <br>
      <br>
-      
+    
+    </ol>
+    
     <p>This workflow was created with <a href="https://app.tango.us/app/workflow/7f3e7c45-d7ec-4af2-86f4-c9a7bb148c8f?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></p>
 
     <hr>
@@ -85,12 +87,60 @@ using HTML or markdown.  Do not modify this file above this line -->
    <br>
    <br>
   
+   </ol>
+      
    <p>This workflow was created with <a href="https://app.tango.us/app/workflow/cda58ec6-a241-4c5a-b4e2-3c15e734a2fc?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a>
       
     <hr>
     
     <h2 id="create">Creating a Page</h2>
     
+    <p>You may want to add a page to your project that does not house any audiovisual items or annotations, e.g., a bibliography or an essay. To do so, you will need to create a page within your project.</p>
+    
+    <ol>
+  
+    <h3><li>Navigate to <a href="http://audiannotate.brumfieldlabs.com/project/mine" target="_blank">your projects page</a> in AudiAnnotate</li></h3>
+
+    <h3><li>Select “Edit” for the appropriate project</li></h3>
+    <img src="https://images.tango.us/public/screenshot_db75ec59-3a52-450e-812f-0ae1b548b6df.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6736&fp-y=0.3432&fp-z=2.8757&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Select “Edit” for the appropriate project" border="2"/>
+    <br>
+    <br>
+
+    <h3><li>Select "Create Page"</li></h3>
+    <img src="https://images.tango.us/public/edited_image_9e97b640-6ddf-4f0a-84ff-57087bd6f603.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&fp-z=1.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Select &quot;Create Page&quot;" border="2"/>
+    <br>
+    <br>
+
+    <h3><li>Give your page a title</li></h3>
+    <img src="https://images.tango.us/public/edited_image_7ebdd93d-fa66-45d0-ac41-6728cfc66c40.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&fp-z=1.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Give your page a title" border="2"/>
+    <br>
+    <br>
+
+    <h3><li>Select "Save"</li></h3>
+    <img src="https://images.tango.us/public/edited_image_f5151fe4-168e-4647-935d-7843c9fc23e0.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&fp-z=1.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Select &quot;Save&quot;" border="2"/>
+    <br>
+    <br> 
+
+    <h3><li>Open the index.markdown file by clicking the linked text</li></h3>
+    <img src="https://images.tango.us/public/screenshot_1505d53a-97c5-445c-81f3-efbf8b3a0019.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3428&fp-y=0.2186&fp-z=2.3723&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Open the index.markdown file by clicking the linked text" border="2"/>
+    <br>
+    <br>  
+
+    <h3><li>Enter your content below the dashed line in either HTML or markdown language</li></h3>
+    <p>You can enter text, tables, images, links, etc.</p>
+    <img src="https://images.tango.us/public/screenshot_da2399e5-38f8-44b9-afcf-9fe135bc8269.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5184&fp-y=0.6264&fp-z=1.1447&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Enter your content below the dashed line in either HTML or markdown language" border="2"/>
+    <br>
+    <br>
+
+    <h3><li>Select "Commit changes"<li></h3>
+    <img src="https://images.tango.us/public/screenshot_fe1802bd-6518-4caa-b652-eac2baf6fde6.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.1988&fp-y=0.7557&fp-z=2.4935&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Select &quot;Commit changes&quot;" border="2"/>
+    <br>
+    <br>
+     
+    </ol>
+    
+  <p>This workflow was created with <a href="https://app.tango.us/app/workflow/2d44bd31-09e9-4c5b-849d-13cd9f79f6ef?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></p>
+
   </body>
     </html>
     
