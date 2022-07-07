@@ -95,7 +95,7 @@ using HTML or markdown.  Do not modify this file above this line -->
     
     <h2 id="create">Creating a Page</h2>
     
-    <p>You may want to add a page to your project that does not house any audiovisual items or annotations, e.g., a bibliography or an essay. To do so, you will need to create a page within your project.</p>
+    <p>You may want to add a page to your project that does not house any audiovisual items or annotations, but instead holds some other contextual information relevant to your project, e.g., a bibliography or an essay. To do so, you will need to create a page within your project.</p>
     
     <ol>
   
@@ -132,7 +132,7 @@ using HTML or markdown.  Do not modify this file above this line -->
     <br>
     <br>
 
-    <h3><li>Select "Commit changes"<li></h3>
+    <h3><li>Select "Commit changes"</li></h3>
     <img src="https://images.tango.us/public/screenshot_fe1802bd-6518-4caa-b652-eac2baf6fde6.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.1988&fp-y=0.7557&fp-z=2.4935&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1408" width="600" alt="Select &quot;Commit changes&quot;" border="2"/>
     <br>
     <br>
