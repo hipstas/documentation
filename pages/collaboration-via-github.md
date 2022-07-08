@@ -172,8 +172,7 @@ using HTML or markdown.  Do not modify this file above this line -->
       <br>
       <br>
       
-      <li>Click individual commits to review changes at a more detailed level.</li>
-      <p>Additions will be highlighted in green and preceded by a plus sign (+); deletions will be red and preceded by a minus sign (-).</p>
+      <li>Click individual commits to review changes at a more detailed level. Additions will be highlighted in green and preceded by a plus sign (+); deletions will be red and preceded by a minus sign (-).</li>
       <img width="1413" alt="Screen Shot 2022-07-07 at 5 08 58 PM" src="https://user-images.githubusercontent.com/97705205/177890909-60c3d02d-30f4-4f3a-ba23-1353ecb64712.png" border="2">
       <br>
       <br>
@@ -189,7 +188,3 @@ using HTML or markdown.  Do not modify this file above this line -->
       <br>
       
     </ol>
-      
-  </body>
-  </html>
-  
