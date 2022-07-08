@@ -161,15 +161,34 @@ using HTML or markdown.  Do not modify this file above this line -->
       </ol>
 
     <h3><i>Responding to a Pull Request</i></h3>
-    <p>Once a collaborator has created a pull request requesting a change in a repository that you own, you will have to review it and merge the changes.</p>
+    <p>Once a collaborator has created a pull request requesting a change in a repository that you own, you will have to review and decide whether to accept their changes. GitHub will send an email notification when a pull request has been created. This email will provide a link to the pull request made by the collaborator.</p>
     
     <ol>
-      <li>GitHub will send an email notification when a pull request has been created. This email will provide a link to the pull request made by the collaborator.</li>
-      
+      <li>Navigate to the pull request link via your GitHub notification email.</li>
+      <br>
+
+      <li>Open the "Commits" tab.</li>
+      <img width="921" alt="Screen Shot 2022-07-07 at 5 08 15 PM" src="https://user-images.githubusercontent.com/97705205/177890996-0fc23419-7457-45ad-957d-a42ab8d964c3.png" border="2">
+      <br>
       <br>
       
-      <li>When you open the pull request, you will see the changes being requested by the collaborator. You can select into the files where changes are being. Additions to each file appear in green with a plus (+) sign at the start of the row, while items being deleted appear in red with a minus (-) sign.</li>
+      <li>Click individual commits to review changes at a more detailed level.</li>
+      <p>Additions will be highlighted in green and preceded by a plus sign (+); deletions will be red and preceded by a minus sign (-).</p>
+      <img width="1413" alt="Screen Shot 2022-07-07 at 5 08 58 PM" src="https://user-images.githubusercontent.com/97705205/177890909-60c3d02d-30f4-4f3a-ba23-1353ecb64712.png" border="2">
+      <br>
+      <br>
       
+      <li>To accept the changes, return to the "Conversation" tab and select “Merge pull request”.</li>
+      <img width="928" alt="Screen Shot 2022-07-07 at 5 09 23 PM" src="https://user-images.githubusercontent.com/97705205/177890896-418ee5d7-b8e3-4e29-8677-1763cd24c493.png" border="2">
+      <br>
+      <br>
+      
+      <li>If you are unsure of changes or have questions for the collaborator, you can continue a discussion by commenting on the thread.</li>
+      <img src="https://user-images.githubusercontent.com/97705205/177890855-6202fd5a-af6a-40cf-84d8-1f0316ea8205.jpg" border="2">
+      <br>
+      <br>
+      
+    </ol>
       
   </body>
   </html>
