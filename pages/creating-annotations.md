@@ -31,6 +31,7 @@ using HTML or markdown.  Do not modify this file above this line -->
             <li>The second column should contain the end time (in total seconds or HR:MIN:SEC format) of the annotation if necessary*.</li>
             <li>The third column should contain the contents of your annotation.</li>
             <li>The fourth column should contain the name of the layer. The layer column is where you can differentiate types of annotations. Write your layer names as you would like them to appear in AudiAnnotate (e.g., "E_Layer," "Notes").</li>
+            <li>The fifth common is optional and is titled in AudiAnnotate as Index. This allows you to pull the different annotations together by the specific theme that you use in the Index column. It will appear in the drop-down menu at the bottom. You can use the same index term throughout different recordings in the same project as long as they are typed the same, down to the same capitalization.</li>
           </ul>
           <br>
           
@@ -54,12 +55,14 @@ using HTML or markdown.  Do not modify this file above this line -->
       <th>time in hr:min:sec (displays in total sec)</th>
       <th>annotation</th>
       <th>layer</th>
+      <th>index</th>
     </tr>
     <tr>
       <td>3</td>
       <td>3</td>
       <td>The audience laughs.</td>
       <td>Environment</td>
+      <td>Nature</td>
     </tr>
     </table>
 
@@ -70,12 +73,14 @@ using HTML or markdown.  Do not modify this file above this line -->
         <th>time in hr:min:sec (displays in total sec)</th>
         <th>annotation</th>
         <th>layer</th>
+        <th>index</th>
       </tr>
       <tr>
         <td>3</td>
         <td></td>
         <td>The audience laughs.</td>
         <td>Environment</td>
+        <td>Nature</td>
       </tr>
       </table>
 
@@ -86,12 +91,14 @@ using HTML or markdown.  Do not modify this file above this line -->
         <th>time in hr:min:sec (displays in total sec)</th>
         <th>annotation</th>
         <th>layer</th>
+        <th>index</th>
       </tr>
       <tr>
         <td>3</td>
         <td>5</td>
         <td>The audience laughs.</td>
         <td>Environment</td>
+        <td>Nature</td>
       </tr>
       </table>
   
