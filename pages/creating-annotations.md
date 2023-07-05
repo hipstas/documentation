@@ -13,7 +13,6 @@ using HTML or markdown.  Do not modify this file above this line -->
     <p> AudiAnnotate is a tool to compile and present existing annotations. You will not create your annotations in AudiAnnotate, but instead import annotations created elsewhere. Annotations can be imported as a .tsv, .csv, .xlsx, or tab-separated .txt file. There are many different types of software that can facilitate making annotation files in these formats. Below, you'll find instructions for making annotations using <a href="#spreadsheet">a simple spreadsheet</a>, <a href="#audacity">Audacity</a>, and <a href="#adobe">Adobe Premiere</a>.</p>
     
     <hr>
-    
     <h2 id="spreadsheet">Creating Annotations Using a Spreadsheet</h2>
     <p>You can use spreadsheet programs like Excel or Google sheets that export .tsv, .csv, or .xlsx files to create and organize annotations for AudiAnnotate. To do so:</p>
       <ol>
@@ -27,11 +26,11 @@ using HTML or markdown.  Do not modify this file above this line -->
           <br>
           <br>          
           <ul>
-            <li><em>Column A</em>: annotation’s start time (in total seconds or HR:MIN:SEC format)</li>
-            <li><em>Column B</em>: annotation’s end time (in total seconds or HR:MIN:SEC format); Note: Column A and Column B may be the same point in time</li>
-            <li><em>Column C</em>: annotation (e.g., transcript, description, speaker name)</li>
-            <li><em>Column D</em>: layers, categories used to describe annotation type (e.g., transcription, speaker, genre, environment, etc.)</li>
-            <li><em>Column E</em>: index (optional), multiple categories separated by a comma to describe the annotation  (e.g., transcription, speaker, genre, environment, etc.) The index is an "end-of-book" list in the project that allows you to pull different annotations across recordings together on one page in connection with different categories. The index is a separate page, and it will appear in the drop-down menu at the bottom. Capitalization should be normalized. </li>
+            <li><b>Column A</b>: annotation’s start time (in total seconds or HR:MIN:SEC format)</li>
+            <li><b>Column B</b>: annotation’s end time (in total seconds or HR:MIN:SEC format); Note: Column A and Column B may be the same point in time or different points in time for a range</li>
+            <li><b>Column C</b>: annotation (e.g., transcript, description, speaker name)</li>
+            <li><b>Column D</b>: layers, categories used to describe annotation type (e.g., transcription, speaker, genre, environment, etc.)</li>
+            <li><b>Column E</b>: index (optional), multiple categories separated by a comma to describe the annotation  (e.g., transcription, speaker, genre, environment, etc.) The index is an "end-of-book" list in the project that allows you to pull different annotations across recordings together on one page in connection with different categories. The index is a separate page, and it will appear in the drop-down menu at the bottom. Capitalization should be normalized. </li>
           </ul>
           <br>
           
@@ -46,61 +45,6 @@ using HTML or markdown.  Do not modify this file above this line -->
         <img width="483" alt="Screen Shot 2022-06-14 at 1 36 42 PM" src="https://user-images.githubusercontent.com/97705205/173664033-0d63f3a3-a153-4282-ad9d-0a321c3b913a.png" border="2">
         <br>
         <br>
-
-    <p>*An end time would not be necessary to make a point annotation, only a range annotation.</p>
-    <p>A <i>point</i> annotation references one point in the audio. Its beginning and end times are the same. An example point annotation looks like:</p>
-    <table>
-    <tr>
-      <th>time in hr:min:sec (displays in total sec)</th>
-      <th>time in hr:min:sec (displays in total sec)</th>
-      <th>annotation</th>
-      <th>layer</th>
-      <th>index</th>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>The audience laughs.</td>
-      <td>Environment</td>
-      <td>Nature</td>
-    </tr>
-    </table>
-
-    <p>Alternatively, you can omit the end time entirely for a point annotation:</p>
-      <table>
-      <tr>
-        <th>time in hr:min:sec (displays in total sec)</th>
-        <th>time in hr:min:sec (displays in total sec)</th>
-        <th>annotation</th>
-        <th>layer</th>
-        <th>index</th>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td></td>
-        <td>The audience laughs.</td>
-        <td>Environment</td>
-        <td>Nature</td>
-      </tr>
-      </table>
-
-    <p>A <i>range</i> annotation has different start and end time values, referencing a range of time in the audio. An example range annotation looks like:</p>
-      <table>
-      <tr>
-        <th>time in hr:min:sec (displays in total sec)</th>
-        <th>time in hr:min:sec (displays in total sec)</th>
-        <th>annotation</th>
-        <th>layer</th>
-        <th>index</th>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td>5</td>
-        <td>The audience laughs.</td>
-        <td>Environment</td>
-        <td>Nature</td>
-      </tr>
-      </table>
   
     <hr>
     <h2 id="audacity">Creating Annotations Using Audacity</h2>
