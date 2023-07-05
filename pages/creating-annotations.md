@@ -37,7 +37,7 @@ using HTML or markdown.  Do not modify this file above this line -->
           
         <li> Enter your annotation(s) into the sheet as necessary.</li>
         <br>
-        <img width="783" alt="Screen Shot 2022-06-14 at 1 35 41 PM" src="https://user-images.githubusercontent.com/97705205/173663821-9734c87b-402d-4540-88bb-1f69485a9230.png" border="2">
+<img width="944" alt="Screenshot 2023-07-05 at 11 35 33 AM" src="https://github.com/hipstas/documentation/assets/1213771/7306cad8-7304-43a1-8824-300b19aee91e" border="2">
         <br>
         <br>
         
