@@ -20,18 +20,19 @@ using HTML or markdown.  Do not modify this file above this line -->
         <li>Create a blank spreadsheet or use <a href="https://docs.google.com/spreadsheets/d/1KdGD0iGzwT4PL8k93ysexStsM-vM_BKTWhvDXJxQ8Pk/copy">this template</a>. (Upon opening this link, you will be prompted to make a copy of this template for your own use.)</li>
         <br>
         
-        <li>AudiAnnotate accepts annotations formatted with four columns:
+        <li>AudiAnnotate accepts annotations formatted with five columns:
           <br>
+          <br><img width="812" alt="Screenshot 2023-07-05 at 10 41 00 AM" src="https://github.com/hipstas/documentation/assets/1213771/efca5755-8d79-46e5-8540-41a5ee4b6e84" border="2">
+
+          <img width="667" alt="Screen Shot 2022-06-14 at 1 32 59 PM" src="https://user-images.githubusercontent.com/97705205/173663362-e82c1a8c-e4fc-40eb-8ec7-87db11b5e4e7.png">
           <br>
-          <img width="667" alt="Screen Shot 2022-06-14 at 1 32 59 PM" src="https://user-images.githubusercontent.com/97705205/173663362-e82c1a8c-e4fc-40eb-8ec7-87db11b5e4e7.png" border="2">
-          <br>
-          <br>
+          <br>          
           <ul>
-            <li>The first column should contain the beginning time (in total seconds or HR:MIN:SEC format) of the annotations.</li>
-            <li>The second column should contain the end time (in total seconds or HR:MIN:SEC format) of the annotation if necessary*.</li>
-            <li>The third column should contain the contents of your annotation.</li>
-            <li>The fourth column should contain the name of the layer. The layer column is where you can differentiate types of annotations. Write your layer names as you would like them to appear in AudiAnnotate (e.g., "E_Layer," "Notes").</li>
-            <li>The fifth column is <b>optional</b>, and should contain the name of the index term. This allows you to pull the different annotations together by the specific theme that you use in the Index column. The index is a separate page, and it will appear in the drop-down menu at the bottom. You can use the same index term throughout different recordings as long as they are in the same project and are typed the same. Make sure they contain the same capitalization. (e.g., the term should always be "Nature," and not "nature" unless you use "nature" for all of the annotations relating to the term.)</li>
+            <li>_Column A_: annotation’s start time (in total seconds or HR:MIN:SEC format)</li>
+            <li>_Column B_: annotation’s end time (in total seconds or HR:MIN:SEC format); Note: Column A and Column B may be the same point in time</li>
+            <li>_Column C_: annotation (e.g., transcript, description, speaker name)</li>
+            <li>_Column D_: layers, categories used to describe annotation type (e.g., transcription, speaker, genre, environment, etc.)</li>
+            <li>_Column E_: index, multiple categories separated by a common to describe annotation  (e.g., transcription, speaker, genre, environment, etc.)The fifth column is <b>optional</b>, and should contain the name of the index term. This allows you to pull the different annotations together by the specific theme that you use in the Index column. The index is a separate page, and it will appear in the drop-down menu at the bottom. You can use the same index term throughout different recordings as long as they are in the same project and are typed the same. Make sure they contain the same capitalization. (e.g., the term should always be "Nature," and not "nature" unless you use "nature" for all of the annotations relating to the term.)</li>
           </ul>
           <br>
           
