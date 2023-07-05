@@ -27,11 +27,11 @@ using HTML or markdown.  Do not modify this file above this line -->
           <br>
           <br>          
           <ul>
-            <li>_Column A_: annotation’s start time (in total seconds or HR:MIN:SEC format)</li>
-            <li>_Column B_: annotation’s end time (in total seconds or HR:MIN:SEC format); Note: Column A and Column B may be the same point in time</li>
-            <li>_Column C_: annotation (e.g., transcript, description, speaker name)</li>
-            <li>_Column D_: layers, categories used to describe annotation type (e.g., transcription, speaker, genre, environment, etc.)</li>
-            <li>_Column E_: index (optional), multiple categories separated by a comma to describe the annotation  (e.g., transcription, speaker, genre, environment, etc.) The index is an "end-of-book" page in the project that allows a project  you to pull the different annotations together by the specific theme that you use in the Index column. The index is a separate page, and it will appear in the drop-down menu at the bottom. You can use the same index term throughout different recordings as long as they are in the same project and are typed the same. Make sure they contain the same capitalization. (e.g., the term should always be "Nature," and not "nature" unless you use "nature" for all of the annotations relating to the term.)</li>
+            <li><em>Column A</em>: annotation’s start time (in total seconds or HR:MIN:SEC format)</li>
+            <li><em>Column B</em>: annotation’s end time (in total seconds or HR:MIN:SEC format); Note: Column A and Column B may be the same point in time</li>
+            <li><em>Column C</em>: annotation (e.g., transcript, description, speaker name)</li>
+            <li><em>Column D</em>: layers, categories used to describe annotation type (e.g., transcription, speaker, genre, environment, etc.)</li>
+            <li><em>Column E</em>: index (optional), multiple categories separated by a comma to describe the annotation  (e.g., transcription, speaker, genre, environment, etc.) The index is an "end-of-book" list in the project that allows you to pull different annotations across recordings together on one page in connection with different categories. The index is a separate page, and it will appear in the drop-down menu at the bottom. Capitalization should be normalized. </li>
           </ul>
           <br>
           
