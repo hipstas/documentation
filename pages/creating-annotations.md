@@ -20,12 +20,10 @@ using HTML or markdown.  Do not modify this file above this line -->
         <li>Create a blank spreadsheet or use <a href="https://docs.google.com/spreadsheets/d/1KdGD0iGzwT4PL8k93ysexStsM-vM_BKTWhvDXJxQ8Pk/copy">this template</a>. (Upon opening this link, you will be prompted to make a copy of this template for your own use.)</li>
         <br>
         
-        <li>AudiAnnotate accepts annotations formatted with five columns:
+        <li>AudiAnnotate accepts annotations formatted with five columns, the first four of which are required:
           <br>
           <br>
           <img width="818" alt="Screenshot 2023-07-05 at 10 56 23 AM" src="https://github.com/hipstas/documentation/assets/1213771/876df148-7e57-4f46-bd84-fad16fbefa5d" border="2">
-
-          <img width="667" alt="Screen Shot 2022-06-14 at 1 32 59 PM" src="https://user-images.githubusercontent.com/97705205/173663362-e82c1a8c-e4fc-40eb-8ec7-87db11b5e4e7.png">
           <br>
           <br>          
           <ul>
@@ -33,7 +31,7 @@ using HTML or markdown.  Do not modify this file above this line -->
             <li>_Column B_: annotation’s end time (in total seconds or HR:MIN:SEC format); Note: Column A and Column B may be the same point in time</li>
             <li>_Column C_: annotation (e.g., transcript, description, speaker name)</li>
             <li>_Column D_: layers, categories used to describe annotation type (e.g., transcription, speaker, genre, environment, etc.)</li>
-            <li>_Column E_: index, multiple categories separated by a common to describe annotation  (e.g., transcription, speaker, genre, environment, etc.)The fifth column is <b>optional</b>, and should contain the name of the index term. This allows you to pull the different annotations together by the specific theme that you use in the Index column. The index is a separate page, and it will appear in the drop-down menu at the bottom. You can use the same index term throughout different recordings as long as they are in the same project and are typed the same. Make sure they contain the same capitalization. (e.g., the term should always be "Nature," and not "nature" unless you use "nature" for all of the annotations relating to the term.)</li>
+            <li>_Column E_: index (optional), multiple categories separated by a comma to describe the annotation  (e.g., transcription, speaker, genre, environment, etc.) The index is an "end-of-book" page in the project that allows a project  you to pull the different annotations together by the specific theme that you use in the Index column. The index is a separate page, and it will appear in the drop-down menu at the bottom. You can use the same index term throughout different recordings as long as they are in the same project and are typed the same. Make sure they contain the same capitalization. (e.g., the term should always be "Nature," and not "nature" unless you use "nature" for all of the annotations relating to the term.)</li>
           </ul>
           <br>
           
