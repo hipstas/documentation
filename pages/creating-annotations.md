@@ -22,7 +22,8 @@ using HTML or markdown.  Do not modify this file above this line -->
         
         <li>AudiAnnotate accepts annotations formatted with five columns:
           <br>
-          <br><img width="812" alt="Screenshot 2023-07-05 at 10 41 00 AM" src="https://github.com/hipstas/documentation/assets/1213771/efca5755-8d79-46e5-8540-41a5ee4b6e84" border="2">
+          <br>
+          <img width="818" alt="Screenshot 2023-07-05 at 10 56 23 AM" src="https://github.com/hipstas/documentation/assets/1213771/876df148-7e57-4f46-bd84-fad16fbefa5d" border="2">
 
           <img width="667" alt="Screen Shot 2022-06-14 at 1 32 59 PM" src="https://user-images.githubusercontent.com/97705205/173663362-e82c1a8c-e4fc-40eb-8ec7-87db11b5e4e7.png">
           <br>
